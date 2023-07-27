@@ -5,7 +5,7 @@
 <table>
   <tbody>
     <tr>
-      <td>
+      <td align="left">
         <div>
           <p>For the last 9 years, I've worked on teams large and small to help build experiences for companies like <a   href="https://]https://www.ford.com">Ford</a>, <a href="https://www.tempurpedic.com">Tempur Pedic</a>, <a href="https://ihome.com">iHome</a>, <a href="https://measure.com">Measure</a>, <a href="http://saunders.mobelux.com">Mobelux</a>, <a href="https://theinfatuation.com">The Infatuation</a>, <a href="https://www.seasonalroots.com">Seasonal Roots</a>, <a href="https://www.simplethread.com/">Simple Thread</a> and more.</p>
           
@@ -30,6 +30,9 @@
 - 🧠 I’m currently learning **Rust** and **Dutch** :netherlands:
 
 ---
+
+### PGP
+<sup><a href="https://keys.openpgp.org/vks/v1/by-fingerprint/BFBE50C7CAF6469DCE2D0A59AC0E2510BE8A9381">BFBE50C7CAF6469DCE2D0A59AC0E2510BE8A9381</a></sup>
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
