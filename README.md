@@ -29,8 +29,6 @@
 
 - 🧠 I’m currently learning **Rust** and **Dutch** :netherlands:
 
-- 📄 ~View the highlights of my career [soon](soon!)~
-
 ---
 
 ### Languages
