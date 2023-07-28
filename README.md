@@ -2,6 +2,24 @@
 
 <h1 align="center">Hallo! :wave: Ik ben Joey Figaro</h1> 
 
+<div align="center">
+  <a href="https://linkedin.com/in/joeyfigaro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/_figarroh_" title="@_figarroh_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@_figarroh_" />
+  </a>
+  <a href="mailto:introductions@shovelandsandbox.dev" title="introductions@shovelandsandbox.dev">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email me" />
+  </a>
+  <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/BFBE50C7CAF6469DCE2D0A59AC0E2510BE8A9381" title="BFBE50C7CAF6469DCE2D0A59AC0E2510BE8A9381">
+    <img src="https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU Privacy Guard&logoColor=0093DD" alt="BFBE50C7CAF6469DCE2D0A59AC0E2510BE8A9381" />
+  </a>
+
+</div>
+
+<br />
+
 <table>
   <tbody>
     <tr>
@@ -30,9 +48,6 @@
 - 🧠 I’m currently learning **Rust** and **Dutch** :netherlands:
 
 ---
-
-### PGP
-<sup><a href="https://keys.openpgp.org/vks/v1/by-fingerprint/BFBE50C7CAF6469DCE2D0A59AC0E2510BE8A9381">BFBE50C7CAF6469DCE2D0A59AC0E2510BE8A9381</a></sup>
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
