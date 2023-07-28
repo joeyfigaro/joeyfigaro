@@ -29,6 +29,8 @@
           
 <p>If you're interested in working together or would like to learn more about me or what I'm working on, feel free to reach out.</p>
         </div>
+        <hr />
+        <!--START_SECTION:activity-->
       </td>
       <td width="40%">
         <p align="center" style={{ paddingTop: 16 }}>
@@ -39,7 +41,7 @@
   </tbody>
 </table>
 
-- 🧑🏻‍💻 I’m currently working on [Gamelens](https://github.com/gamelens)–a mobile computer vision app
+- 🧑🏻‍💻 I’m currently working on [Gamelens](https://github.com/gamelens)
   - ✅ [Typescript, <a href="https://apify.com">Apify</a>] scheduled actors run daily to find public cover art for video games
   - ✅ [<a href="https://apify.com">Apify</a>, <a href="https://developer.apple.com/machine-learning/create-ml/">Create ML</a>] results from actor runs are used to train a model (not automated yet)
   - 💪🏻 [<a href="https://www.rust-lang.org/learn">Rust</a>, <a href="https://actix.rs/">Actix</a>] platform API serves up JSON for discovered games (in-progress)
