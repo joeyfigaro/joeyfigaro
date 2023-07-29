@@ -1,6 +1,9 @@
 ![Joey Figaro](https://user-images.githubusercontent.com/1386477/255922059-c80c6740-9a5a-4f38-852d-83578249ff60.png)
 
 <h1 align="center">Hallo! :wave: Ik ben Joey Figaro</h1> 
+<h4 align="center">I'm a fullstack developer with a background in design</h4>
+
+<hr />
 
 <div align="center">
   <a href="https://linkedin.com/in/joeyfigaro">
