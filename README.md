@@ -29,7 +29,6 @@
           
 <p>If you're interested in working together or would like to learn more about me or what I'm working on, feel free to reach out.</p>
         </div>
-        <hr />
       </td>
       <td width="40%">
         <p align="center" style={{ paddingTop: 16 }}>
