@@ -67,11 +67,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#264](https://github.com/tailwindlabs/heroicons/issues/264#issuecomment-1732369765) in [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)
-2. 🗣 Commented on [#628](https://github.com/actix/examples/issues/628#issuecomment-1646674544) in [actix/examples](https://github.com/actix/examples)
-3. 🗣 Commented on [#628](https://github.com/actix/examples/issues/628#issuecomment-1646674271) in [actix/examples](https://github.com/actix/examples)
-4. 💪 Opened PR [#629](https://github.com/actix/examples/pull/629) in [actix/examples](https://github.com/actix/examples)
-5. ❗ Opened issue [#628](https://github.com/actix/examples/issues/628) in [actix/examples](https://github.com/actix/examples)
+1. 🗣 Commented on [#119](https://github.com/LaughingLeader/BG3ModManager/issues/119#issuecomment-1732576831) in [LaughingLeader/BG3ModManager](https://github.com/LaughingLeader/BG3ModManager)
+2. 🗣 Commented on [#264](https://github.com/tailwindlabs/heroicons/issues/264#issuecomment-1732369765) in [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)
+3. 🗣 Commented on [#628](https://github.com/actix/examples/issues/628#issuecomment-1646674544) in [actix/examples](https://github.com/actix/examples)
+4. 🗣 Commented on [#628](https://github.com/actix/examples/issues/628#issuecomment-1646674271) in [actix/examples](https://github.com/actix/examples)
+5. 💪 Opened PR [#629](https://github.com/actix/examples/pull/629) in [actix/examples](https://github.com/actix/examples)
 <!--END_SECTION:activity-->
 
 ### Experience With
