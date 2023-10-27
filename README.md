@@ -67,10 +67,10 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#44](https://github.com/deanoemcke/spaces/issues/44) in [deanoemcke/spaces](https://github.com/deanoemcke/spaces)
-2. 🗣 Commented on [#119](https://github.com/LaughingLeader/BG3ModManager/issues/119#issuecomment-1732576831) in [LaughingLeader/BG3ModManager](https://github.com/LaughingLeader/BG3ModManager)
-3. 🗣 Commented on [#264](https://github.com/tailwindlabs/heroicons/issues/264#issuecomment-1732369765) in [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)
-4. 🗣 Commented on [#628](https://github.com/actix/examples/issues/628#issuecomment-1646674544) in [actix/examples](https://github.com/actix/examples)
+1. 🗣 Commented on [#14](https://github.com/Gamote/lottie-react/issues/14#issuecomment-1782170632) in [Gamote/lottie-react](https://github.com/Gamote/lottie-react)
+2. ❗ Opened issue [#44](https://github.com/deanoemcke/spaces/issues/44) in [deanoemcke/spaces](https://github.com/deanoemcke/spaces)
+3. 🗣 Commented on [#119](https://github.com/LaughingLeader/BG3ModManager/issues/119#issuecomment-1732576831) in [LaughingLeader/BG3ModManager](https://github.com/LaughingLeader/BG3ModManager)
+4. 🗣 Commented on [#264](https://github.com/tailwindlabs/heroicons/issues/264#issuecomment-1732369765) in [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)
 5. 🗣 Commented on [#628](https://github.com/actix/examples/issues/628#issuecomment-1646674271) in [actix/examples](https://github.com/actix/examples)
 <!--END_SECTION:activity-->
 
