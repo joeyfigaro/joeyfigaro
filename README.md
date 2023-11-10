@@ -34,10 +34,7 @@
           <p>For the last 9 years, I've worked on teams large and small to help build experiences for companies like <a   href="https://]https://www.ford.com">Ford</a>, <a href="https://www.tempurpedic.com">Tempur Pedic</a>, <a href="https://ihome.com">iHome</a>, <a href="https://measure.com">Measure</a>, <a href="http://saunders.mobelux.com">Mobelux</a>, <a href="https://theinfatuation.com">The Infatuation</a>, <a href="https://www.seasonalroots.com">Seasonal Roots</a>, <a href="https://www.simplethread.com/">Simple Thread</a> and more.</p>
 
           
-          
 <p>If you're interested in <a href="https://shovelandsandbox.dev" target="_blank">working together</a> or would like to <a href="https://joeyfigaro.com" target="_blank">learn more about me</a> or <a href="https://joeyfigaro.com/projects" target="_blank">what I'm working on</a>, feel free to reach out.</p>
-
-
         </div>
       </td>
       <td width="40%">
