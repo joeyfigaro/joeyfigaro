@@ -6,6 +6,9 @@
 <hr />
 
 <div align="center">
+  <a href="https://joeyfigaro.com">
+    <img src="https://img.shields.io/badge/joeyfigaro.com-8A2BE2" alt="JoeyFigaro.com" />
+  </a>
   <a href="https://linkedin.com/in/joeyfigaro">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -34,7 +37,7 @@
           
 <p>If you're interested in <a href="https://shovelandsandbox.dev" target="_blank">working together</a> or would like to <a href="https://joeyfigaro.com" target="_blank">learn more about me</a> or <a href="https://joeyfigaro.com/projects" target="_blank">what I'm working on</a>, feel free to reach out.</p>
 
-<p>You can also view some of my work or learn more about me at <a href="https://joeyfigaro.com" target="_blank">joeyfigaro.com</a></p>
+
         </div>
       </td>
       <td width="40%">
