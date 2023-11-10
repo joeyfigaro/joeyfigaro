@@ -31,6 +31,8 @@
           <p>For the last 9 years, I've worked on teams large and small to help build experiences for companies like <a   href="https://]https://www.ford.com">Ford</a>, <a href="https://www.tempurpedic.com">Tempur Pedic</a>, <a href="https://ihome.com">iHome</a>, <a href="https://measure.com">Measure</a>, <a href="http://saunders.mobelux.com">Mobelux</a>, <a href="https://theinfatuation.com">The Infatuation</a>, <a href="https://www.seasonalroots.com">Seasonal Roots</a>, <a href="https://www.simplethread.com/">Simple Thread</a> and more.</p>
           
 <p>If you're interested in working together or would like to learn more about me or what I'm working on, feel free to reach out.</p>
+
+<p>You can also view some of my work or learn more about me at [joeyfigaro.com](https://joeyfigaro.com)</p>
         </div>
       </td>
       <td width="40%">
