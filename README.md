@@ -32,7 +32,7 @@
           
 <p>If you're interested in working together or would like to learn more about me or what I'm working on, feel free to reach out.</p>
 
-<p>You can also view some of my work or learn more about me at [joeyfigaro.com](https://joeyfigaro.com)</p>
+<p>You can also view some of my work or learn more about me at <a href="https://joeyfigaro.com" target="_blank">joeyfigaro.com</a></p>
         </div>
       </td>
       <td width="40%">
