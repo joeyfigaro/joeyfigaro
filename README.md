@@ -71,11 +71,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/acamposuribe/p5.brush/issues/8#issuecomment-1818000870) in [acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush)
-2. ❗ Opened issue [#8](https://github.com/acamposuribe/p5.brush/issues/8) in [acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush)
-3. ❗ Opened issue [#2](https://github.com/metal3d/docker-domains/issues/2) in [metal3d/docker-domains](https://github.com/metal3d/docker-domains)
-4. 🗣 Commented on [#14](https://github.com/Gamote/lottie-react/issues/14#issuecomment-1782170632) in [Gamote/lottie-react](https://github.com/Gamote/lottie-react)
-5. ❗ Opened issue [#44](https://github.com/deanoemcke/spaces/issues/44) in [deanoemcke/spaces](https://github.com/deanoemcke/spaces)
+1. 🗣 Commented on [#8](https://github.com/acamposuribe/p5.brush/issues/8#issuecomment-1820062789) in [acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush)
+2. 🗣 Commented on [#8](https://github.com/acamposuribe/p5.brush/issues/8#issuecomment-1818000870) in [acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush)
+3. ❗ Opened issue [#8](https://github.com/acamposuribe/p5.brush/issues/8) in [acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush)
+4. ❗ Opened issue [#2](https://github.com/metal3d/docker-domains/issues/2) in [metal3d/docker-domains](https://github.com/metal3d/docker-domains)
+5. 🗣 Commented on [#14](https://github.com/Gamote/lottie-react/issues/14#issuecomment-1782170632) in [Gamote/lottie-react](https://github.com/Gamote/lottie-react)
 <!--END_SECTION:activity-->
 
 ### Experience With
