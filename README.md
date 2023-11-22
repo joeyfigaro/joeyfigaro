@@ -46,6 +46,8 @@
   </tbody>
 </table>
 
+- `OSS`: I contribute to [Rust web frameworks](https://github.com/actix/examples/pull/629#event-9891729908), [generative art toolkits](https://github.com/acamposuribe/p5.brush/pull/9), and publish [useful Github actions](https://github.com/joeyfigaro/action-conflict-finder) projects in my spare time. 
+
 - 🧑🏻‍💻 I’m currently working on [Gamelens](https://github.com/gamelens)
   - ✅ [Typescript, <a href="https://apify.com">Apify</a>] scheduled actors run daily to find public cover art for video games
   - ✅ [<a href="https://apify.com">Apify</a>, <a href="https://developer.apple.com/machine-learning/create-ml/">Create ML</a>] results from actor runs are used to train a model (not automated yet)
