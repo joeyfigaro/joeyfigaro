@@ -71,11 +71,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/elie222/inbox-zero/issues/62#issuecomment-1974083015) in [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
-2. ❗ Opened issue [#7049](https://github.com/bisq-network/bisq/issues/7049) in [bisq-network/bisq](https://github.com/bisq-network/bisq)
-3. 🗣 Commented on [#5](https://github.com/timelessco/react-vite-chrome-extension/issues/5#issuecomment-1962959290) in [timelessco/react-vite-chrome-extension](https://github.com/timelessco/react-vite-chrome-extension)
-4. 🗣 Commented on [#8](https://github.com/acamposuribe/p5.brush/issues/8#issuecomment-1934985632) in [acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush)
-5. ❗ Opened issue [#10532](https://github.com/raycast/extensions/issues/10532) in [raycast/extensions](https://github.com/raycast/extensions)
+1. ❗ Opened issue [#2](https://github.com/thecuvii/remark-sandpack/issues/2) in [thecuvii/remark-sandpack](https://github.com/thecuvii/remark-sandpack)
+2. 🗣 Commented on [#62](https://github.com/elie222/inbox-zero/issues/62#issuecomment-1974083015) in [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
+3. ❗ Opened issue [#7049](https://github.com/bisq-network/bisq/issues/7049) in [bisq-network/bisq](https://github.com/bisq-network/bisq)
+4. 🗣 Commented on [#5](https://github.com/timelessco/react-vite-chrome-extension/issues/5#issuecomment-1962959290) in [timelessco/react-vite-chrome-extension](https://github.com/timelessco/react-vite-chrome-extension)
+5. 🗣 Commented on [#8](https://github.com/acamposuribe/p5.brush/issues/8#issuecomment-1934985632) in [acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush)
 <!--END_SECTION:activity-->
 
 ### Experience With
