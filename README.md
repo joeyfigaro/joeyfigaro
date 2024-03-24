@@ -71,11 +71,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8608](https://github.com/tauri-apps/tauri/issues/8608#issuecomment-2016536056) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-2. ❗ Opened issue [#1221](https://github.com/maizzle/framework/issues/1221) in [maizzle/framework](https://github.com/maizzle/framework)
-3. 🗣 Commented on [#574](https://github.com/maizzle/framework/issues/574#issuecomment-2008553598) in [maizzle/framework](https://github.com/maizzle/framework)
-4. 💪 Opened PR [#9](https://github.com/coollabsio/coolify-docs/pull/9) in [coollabsio/coolify-docs](https://github.com/coollabsio/coolify-docs)
-5. 🗣 Commented on [#7049](https://github.com/bisq-network/bisq/issues/7049#issuecomment-1986075344) in [bisq-network/bisq](https://github.com/bisq-network/bisq)
+1. 🗣 Commented on [#11](https://github.com/EldenRingDatabase/erdb/issues/11#issuecomment-2016830575) in [EldenRingDatabase/erdb](https://github.com/EldenRingDatabase/erdb)
+2. 🗣 Commented on [#8608](https://github.com/tauri-apps/tauri/issues/8608#issuecomment-2016536056) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+3. ❗ Opened issue [#1221](https://github.com/maizzle/framework/issues/1221) in [maizzle/framework](https://github.com/maizzle/framework)
+4. 🗣 Commented on [#574](https://github.com/maizzle/framework/issues/574#issuecomment-2008553598) in [maizzle/framework](https://github.com/maizzle/framework)
+5. 💪 Opened PR [#9](https://github.com/coollabsio/coolify-docs/pull/9) in [coollabsio/coolify-docs](https://github.com/coollabsio/coolify-docs)
 <!--END_SECTION:activity-->
 
 ### Experience With
