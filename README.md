@@ -71,11 +71,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/elie222/inbox-zero/issues/62#issuecomment-2040802770) in [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
-2. 💪 Opened PR [#1](https://github.com/joeyfigaro/eldenring-json/pull/1) in [joeyfigaro/eldenring-json](https://github.com/joeyfigaro/eldenring-json)
-3. 💪 Opened PR [#5](https://github.com/izmaelmag/awesome-emails/pull/5) in [izmaelmag/awesome-emails](https://github.com/izmaelmag/awesome-emails)
-4. 🗣 Commented on [#11](https://github.com/EldenRingDatabase/erdb/issues/11#issuecomment-2016830575) in [EldenRingDatabase/erdb](https://github.com/EldenRingDatabase/erdb)
-5. 🗣 Commented on [#8608](https://github.com/tauri-apps/tauri/issues/8608#issuecomment-2016536056) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+1. 🗣 Commented on [#3](https://github.com/error-four-o-four/p5.automated-canvas/issues/3#issuecomment-2041101487) in [error-four-o-four/p5.automated-canvas](https://github.com/error-four-o-four/p5.automated-canvas)
+2. 🗣 Commented on [#62](https://github.com/elie222/inbox-zero/issues/62#issuecomment-2040802770) in [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
+3. 💪 Opened PR [#1](https://github.com/joeyfigaro/eldenring-json/pull/1) in [joeyfigaro/eldenring-json](https://github.com/joeyfigaro/eldenring-json)
+4. 💪 Opened PR [#5](https://github.com/izmaelmag/awesome-emails/pull/5) in [izmaelmag/awesome-emails](https://github.com/izmaelmag/awesome-emails)
+5. 🗣 Commented on [#11](https://github.com/EldenRingDatabase/erdb/issues/11#issuecomment-2016830575) in [EldenRingDatabase/erdb](https://github.com/EldenRingDatabase/erdb)
 <!--END_SECTION:activity-->
 
 ### Experience With
