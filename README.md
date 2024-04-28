@@ -71,11 +71,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#264](https://github.com/primus/eventemitter3/pull/264#issuecomment-2064540015) in [primus/eventemitter3](https://github.com/primus/eventemitter3)
-2. 🗣 Commented on [#62](https://github.com/elie222/inbox-zero/issues/62#issuecomment-2052296897) in [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
-3. 🗣 Commented on [#62](https://github.com/elie222/inbox-zero/issues/62#issuecomment-2052276838) in [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
-4. 🗣 Commented on [#3](https://github.com/error-four-o-four/p5.automated-canvas/issues/3#issuecomment-2041101487) in [error-four-o-four/p5.automated-canvas](https://github.com/error-four-o-four/p5.automated-canvas)
-5. 🗣 Commented on [#62](https://github.com/elie222/inbox-zero/issues/62#issuecomment-2040802770) in [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
+1. 🗣 Commented on [#7180](https://github.com/oven-sh/bun/issues/7180#issuecomment-2081638101) in [oven-sh/bun](https://github.com/oven-sh/bun)
+2. 🗣 Commented on [#264](https://github.com/primus/eventemitter3/pull/264#issuecomment-2064540015) in [primus/eventemitter3](https://github.com/primus/eventemitter3)
+3. 🗣 Commented on [#62](https://github.com/elie222/inbox-zero/issues/62#issuecomment-2052296897) in [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
+4. 🗣 Commented on [#62](https://github.com/elie222/inbox-zero/issues/62#issuecomment-2052276838) in [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
+5. 🗣 Commented on [#3](https://github.com/error-four-o-four/p5.automated-canvas/issues/3#issuecomment-2041101487) in [error-four-o-four/p5.automated-canvas](https://github.com/error-four-o-four/p5.automated-canvas)
 <!--END_SECTION:activity-->
 
 ### Experience With
