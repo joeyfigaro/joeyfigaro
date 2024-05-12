@@ -71,11 +71,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#722](https://github.com/react-native-community/discussions-and-proposals/issues/722#issuecomment-2106365048) in [react-native-community/discussions-and-proposals](https://github.com/react-native-community/discussions-and-proposals)
-2. 🗣 Commented on [#579](https://github.com/orbstack/orbstack/issues/579#issuecomment-2093063805) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
-3. 🗣 Commented on [#7180](https://github.com/oven-sh/bun/issues/7180#issuecomment-2081638101) in [oven-sh/bun](https://github.com/oven-sh/bun)
-4. 🗣 Commented on [#264](https://github.com/primus/eventemitter3/pull/264#issuecomment-2064540015) in [primus/eventemitter3](https://github.com/primus/eventemitter3)
-5. 🗣 Commented on [#62](https://github.com/elie222/inbox-zero/issues/62#issuecomment-2052296897) in [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
+1. ❗ Opened issue [#16](https://github.com/LegendApp/legend-motion/issues/16) in [LegendApp/legend-motion](https://github.com/LegendApp/legend-motion)
+2. 🗣 Commented on [#722](https://github.com/react-native-community/discussions-and-proposals/issues/722#issuecomment-2106365048) in [react-native-community/discussions-and-proposals](https://github.com/react-native-community/discussions-and-proposals)
+3. 🗣 Commented on [#579](https://github.com/orbstack/orbstack/issues/579#issuecomment-2093063805) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
+4. 🗣 Commented on [#7180](https://github.com/oven-sh/bun/issues/7180#issuecomment-2081638101) in [oven-sh/bun](https://github.com/oven-sh/bun)
+5. 🗣 Commented on [#264](https://github.com/primus/eventemitter3/pull/264#issuecomment-2064540015) in [primus/eventemitter3](https://github.com/primus/eventemitter3)
 <!--END_SECTION:activity-->
 
 ### Experience With
