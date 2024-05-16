@@ -71,11 +71,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21164](https://github.com/cypress-io/cypress/issues/21164#issuecomment-2113686525) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
-2. ❗ Opened issue [#16](https://github.com/LegendApp/legend-motion/issues/16) in [LegendApp/legend-motion](https://github.com/LegendApp/legend-motion)
-3. 🗣 Commented on [#722](https://github.com/react-native-community/discussions-and-proposals/issues/722#issuecomment-2106365048) in [react-native-community/discussions-and-proposals](https://github.com/react-native-community/discussions-and-proposals)
-4. 🗣 Commented on [#579](https://github.com/orbstack/orbstack/issues/579#issuecomment-2093063805) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
-5. 🗣 Commented on [#7180](https://github.com/oven-sh/bun/issues/7180#issuecomment-2081638101) in [oven-sh/bun](https://github.com/oven-sh/bun)
+1. 💪 Opened PR [#5561](https://github.com/TanStack/table/pull/5561) in [TanStack/table](https://github.com/TanStack/table)
+2. 🗣 Commented on [#21164](https://github.com/cypress-io/cypress/issues/21164#issuecomment-2113686525) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+3. ❗ Opened issue [#16](https://github.com/LegendApp/legend-motion/issues/16) in [LegendApp/legend-motion](https://github.com/LegendApp/legend-motion)
+4. 🗣 Commented on [#722](https://github.com/react-native-community/discussions-and-proposals/issues/722#issuecomment-2106365048) in [react-native-community/discussions-and-proposals](https://github.com/react-native-community/discussions-and-proposals)
+5. 🗣 Commented on [#579](https://github.com/orbstack/orbstack/issues/579#issuecomment-2093063805) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
 <!--END_SECTION:activity-->
 
 ### Experience With
