@@ -71,11 +71,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#39](https://github.com/limkimsan/react-native-bottom-sheet-picker/issues/39) in [limkimsan/react-native-bottom-sheet-picker](https://github.com/limkimsan/react-native-bottom-sheet-picker)
-2. ❗ Opened issue [#190](https://github.com/AdelRedaa97/react-native-select-dropdown/issues/190) in [AdelRedaa97/react-native-select-dropdown](https://github.com/AdelRedaa97/react-native-select-dropdown)
-3. ❗ Opened issue [#2](https://github.com/louis-thevenet/zsh-airpods-battery/issues/2) in [louis-thevenet/zsh-airpods-battery](https://github.com/louis-thevenet/zsh-airpods-battery)
-4. 💪 Opened PR [#5561](https://github.com/TanStack/table/pull/5561) in [TanStack/table](https://github.com/TanStack/table)
-5. 🗣 Commented on [#21164](https://github.com/cypress-io/cypress/issues/21164#issuecomment-2113686525) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+1. 🗣 Commented on [#1669](https://github.com/gluestack/gluestack-ui/issues/1669#issuecomment-2118886022) in [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui)
+2. ❗ Opened issue [#39](https://github.com/limkimsan/react-native-bottom-sheet-picker/issues/39) in [limkimsan/react-native-bottom-sheet-picker](https://github.com/limkimsan/react-native-bottom-sheet-picker)
+3. ❗ Opened issue [#190](https://github.com/AdelRedaa97/react-native-select-dropdown/issues/190) in [AdelRedaa97/react-native-select-dropdown](https://github.com/AdelRedaa97/react-native-select-dropdown)
+4. ❗ Opened issue [#2](https://github.com/louis-thevenet/zsh-airpods-battery/issues/2) in [louis-thevenet/zsh-airpods-battery](https://github.com/louis-thevenet/zsh-airpods-battery)
+5. 💪 Opened PR [#5561](https://github.com/TanStack/table/pull/5561) in [TanStack/table](https://github.com/TanStack/table)
 <!--END_SECTION:activity-->
 
 ### Experience With
