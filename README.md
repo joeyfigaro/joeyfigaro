@@ -71,11 +71,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/lukemorales/query-key-factory/issues/48#issuecomment-2211962343) in [lukemorales/query-key-factory](https://github.com/lukemorales/query-key-factory)
-2. 🗣 Commented on [#592](https://github.com/imazen/imageflow/issues/592#issuecomment-2197808310) in [imazen/imageflow](https://github.com/imazen/imageflow)
-3. ❗ Opened issue [#65](https://github.com/theotherphil/imagecli/issues/65) in [theotherphil/imagecli](https://github.com/theotherphil/imagecli)
-4. 🗣 Commented on [#592](https://github.com/imazen/imageflow/issues/592#issuecomment-2197803965) in [imazen/imageflow](https://github.com/imazen/imageflow)
-5. 🗣 Commented on [#2456](https://github.com/radix-ui/primitives/issues/2456#issuecomment-2195688661) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
+1. ❗ Opened issue [#868](https://github.com/Remix-Design/RemixIcon/issues/868) in [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon)
+2. 🗣 Commented on [#48](https://github.com/lukemorales/query-key-factory/issues/48#issuecomment-2211962343) in [lukemorales/query-key-factory](https://github.com/lukemorales/query-key-factory)
+3. 🗣 Commented on [#592](https://github.com/imazen/imageflow/issues/592#issuecomment-2197808310) in [imazen/imageflow](https://github.com/imazen/imageflow)
+4. ❗ Opened issue [#65](https://github.com/theotherphil/imagecli/issues/65) in [theotherphil/imagecli](https://github.com/theotherphil/imagecli)
+5. 🗣 Commented on [#592](https://github.com/imazen/imageflow/issues/592#issuecomment-2197803965) in [imazen/imageflow](https://github.com/imazen/imageflow)
 <!--END_SECTION:activity-->
 
 ### Experience With
