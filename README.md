@@ -71,11 +71,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#374](https://github.com/sindresorhus/query-string/issues/374#issuecomment-2234089080) in [sindresorhus/query-string](https://github.com/sindresorhus/query-string)
-2. ❗ Opened issue [#868](https://github.com/Remix-Design/RemixIcon/issues/868) in [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon)
-3. 🗣 Commented on [#48](https://github.com/lukemorales/query-key-factory/issues/48#issuecomment-2211962343) in [lukemorales/query-key-factory](https://github.com/lukemorales/query-key-factory)
-4. 🗣 Commented on [#592](https://github.com/imazen/imageflow/issues/592#issuecomment-2197808310) in [imazen/imageflow](https://github.com/imazen/imageflow)
-5. ❗ Opened issue [#65](https://github.com/theotherphil/imagecli/issues/65) in [theotherphil/imagecli](https://github.com/theotherphil/imagecli)
+1. ❗ Opened issue [#3018](https://github.com/itzg/docker-minecraft-server/issues/3018) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+2. 🗣 Commented on [#374](https://github.com/sindresorhus/query-string/issues/374#issuecomment-2234089080) in [sindresorhus/query-string](https://github.com/sindresorhus/query-string)
+3. ❗ Opened issue [#868](https://github.com/Remix-Design/RemixIcon/issues/868) in [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon)
+4. 🗣 Commented on [#48](https://github.com/lukemorales/query-key-factory/issues/48#issuecomment-2211962343) in [lukemorales/query-key-factory](https://github.com/lukemorales/query-key-factory)
+5. 🗣 Commented on [#592](https://github.com/imazen/imageflow/issues/592#issuecomment-2197808310) in [imazen/imageflow](https://github.com/imazen/imageflow)
 <!--END_SECTION:activity-->
 
 ### Experience With
