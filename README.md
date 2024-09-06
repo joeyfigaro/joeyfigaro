@@ -71,11 +71,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Buddy-Technology/react-native-test-app/pull/1) in [Buddy-Technology/react-native-test-app](https://github.com/Buddy-Technology/react-native-test-app)
-2. 🗣 Commented on [#24](https://github.com/spocon/lovspotify/issues/24#issuecomment-2323431340) in [spocon/lovspotify](https://github.com/spocon/lovspotify)
-3. 🗣 Commented on [#4](https://github.com/macrae/comics-net/issues/4#issuecomment-2323047753) in [macrae/comics-net](https://github.com/macrae/comics-net)
-4. 🗣 Commented on [#313](https://github.com/React-Sight/React-Sight/issues/313#issuecomment-2291307081) in [React-Sight/React-Sight](https://github.com/React-Sight/React-Sight)
-5. ❗ Opened issue [#3018](https://github.com/itzg/docker-minecraft-server/issues/3018) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+1. 🗣 Commented on [#1](https://github.com/Buddy-Technology/react-native-test-app/pull/1#issuecomment-2334231290) in [Buddy-Technology/react-native-test-app](https://github.com/Buddy-Technology/react-native-test-app)
+2. 💪 Opened PR [#1](https://github.com/Buddy-Technology/react-native-test-app/pull/1) in [Buddy-Technology/react-native-test-app](https://github.com/Buddy-Technology/react-native-test-app)
+3. 🗣 Commented on [#24](https://github.com/spocon/lovspotify/issues/24#issuecomment-2323431340) in [spocon/lovspotify](https://github.com/spocon/lovspotify)
+4. 🗣 Commented on [#4](https://github.com/macrae/comics-net/issues/4#issuecomment-2323047753) in [macrae/comics-net](https://github.com/macrae/comics-net)
+5. 🗣 Commented on [#313](https://github.com/React-Sight/React-Sight/issues/313#issuecomment-2291307081) in [React-Sight/React-Sight](https://github.com/React-Sight/React-Sight)
 <!--END_SECTION:activity-->
 
 ### Experience With
