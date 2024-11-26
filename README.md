@@ -71,11 +71,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#552](https://github.com/trustedsec/social-engineer-toolkit/issues/552#issuecomment-2498996719) in [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)
-2. 🗣 Commented on [#904](https://github.com/pastelsky/bundlephobia/issues/904#issuecomment-2498963577) in [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia)
-3. 🗣 Commented on [#419](https://github.com/rolod0x/rolod0x/issues/419#issuecomment-2498620208) in [rolod0x/rolod0x](https://github.com/rolod0x/rolod0x)
-4. 🗣 Commented on [#419](https://github.com/rolod0x/rolod0x/issues/419#issuecomment-2496063601) in [rolod0x/rolod0x](https://github.com/rolod0x/rolod0x)
-5. ❗ Opened issue [#2](https://github.com/aminehmida/medots/issues/2) in [aminehmida/medots](https://github.com/aminehmida/medots)
+1. 🗣 Commented on [#419](https://github.com/rolod0x/rolod0x/issues/419#issuecomment-2499359102) in [rolod0x/rolod0x](https://github.com/rolod0x/rolod0x)
+2. 🗣 Commented on [#552](https://github.com/trustedsec/social-engineer-toolkit/issues/552#issuecomment-2498996719) in [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)
+3. 🗣 Commented on [#904](https://github.com/pastelsky/bundlephobia/issues/904#issuecomment-2498963577) in [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia)
+4. 🗣 Commented on [#419](https://github.com/rolod0x/rolod0x/issues/419#issuecomment-2498620208) in [rolod0x/rolod0x](https://github.com/rolod0x/rolod0x)
+5. 🗣 Commented on [#419](https://github.com/rolod0x/rolod0x/issues/419#issuecomment-2496063601) in [rolod0x/rolod0x](https://github.com/rolod0x/rolod0x)
 <!--END_SECTION:activity-->
 
 ### Experience With
