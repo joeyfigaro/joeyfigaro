@@ -44,7 +44,9 @@
   </tbody>
 </table>
 
-- `OSS`: I contribute to [Rust web frameworks](https://github.com/actix/examples/pull/629#event-9891729908), [generative art toolkits](https://github.com/acamposuribe/p5.brush/pull/9), and publish [useful Github actions](https://github.com/joeyfigaro/action-conflict-finder) projects in my spare time. 
+- `OSS`: I contribute to [Rust web frameworks](https://github.com/actix/examples/pull/629#event-9891729908), [generative art toolkits](https://github.com/acamposuribe/p5.brush/pull/9), and publish [useful Github actions](https://github.com/joeyfigaro/action-conflict-finder) projects in my spare time.
+- I made a [fairly popular Sublime Text theme](https://packagecontrol.io/packages/Theme%20-%20Glacier) a long time ago
+
 
 - 🧑🏻‍💻 I’m currently working on [Gamelens](https://github.com/gamelens)
   - ✅ [Typescript, <a href="https://apify.com">Apify</a>] scheduled actors run daily to find public cover art for video games
