@@ -73,11 +73,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#40](https://github.com/limkimsan/react-native-bottom-sheet-picker/issues/40) in [limkimsan/react-native-bottom-sheet-picker](https://github.com/limkimsan/react-native-bottom-sheet-picker)
-2. 🔒 Closed issue [#39](https://github.com/limkimsan/react-native-bottom-sheet-picker/issues/39) in [limkimsan/react-native-bottom-sheet-picker](https://github.com/limkimsan/react-native-bottom-sheet-picker)
-3. 🗣 Commented on [#170](https://github.com/bahmutov/start-server-and-test/issues/170#issuecomment-2573621712) in [bahmutov/start-server-and-test](https://github.com/bahmutov/start-server-and-test)
-4. 🗣 Commented on [#31261](https://github.com/microsoft/fluentui/issues/31261#issuecomment-2518628836) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-5. 🗣 Commented on [#534](https://github.com/aidenybai/million/issues/534#issuecomment-2508333619) in [aidenybai/million](https://github.com/aidenybai/million)
+1. 💪 Opened PR [#31](https://github.com/projectmgr/projectmanager-sdk-typescript/pull/31) in [projectmgr/projectmanager-sdk-typescript](https://github.com/projectmgr/projectmanager-sdk-typescript)
+2. ❗ Opened issue [#40](https://github.com/limkimsan/react-native-bottom-sheet-picker/issues/40) in [limkimsan/react-native-bottom-sheet-picker](https://github.com/limkimsan/react-native-bottom-sheet-picker)
+3. 🔒 Closed issue [#39](https://github.com/limkimsan/react-native-bottom-sheet-picker/issues/39) in [limkimsan/react-native-bottom-sheet-picker](https://github.com/limkimsan/react-native-bottom-sheet-picker)
+4. 🗣 Commented on [#170](https://github.com/bahmutov/start-server-and-test/issues/170#issuecomment-2573621712) in [bahmutov/start-server-and-test](https://github.com/bahmutov/start-server-and-test)
+5. 🗣 Commented on [#31261](https://github.com/microsoft/fluentui/issues/31261#issuecomment-2518628836) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 <!--END_SECTION:activity-->
 
 ### Experience With
