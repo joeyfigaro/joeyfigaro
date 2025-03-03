@@ -73,10 +73,10 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#89](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin/issues/89) in [kaiiiz/obsidian-raindrop-highlights-plugin](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin)
-2. 🗣 Commented on [#2815](https://github.com/radix-ui/primitives/issues/2815#issuecomment-2651899234) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
-3. 💪 Opened PR [#31](https://github.com/projectmgr/projectmanager-sdk-typescript/pull/31) in [projectmgr/projectmanager-sdk-typescript](https://github.com/projectmgr/projectmanager-sdk-typescript)
-4. 🔒 Closed issue [#39](https://github.com/limkimsan/react-native-bottom-sheet-picker/issues/39) in [limkimsan/react-native-bottom-sheet-picker](https://github.com/limkimsan/react-native-bottom-sheet-picker)
+1. 🗣 Commented on [#266](https://github.com/quiqueck/BetterNether/pull/266#issuecomment-2694840861) in [quiqueck/BetterNether](https://github.com/quiqueck/BetterNether)
+2. ❌ Closed PR [#266](https://github.com/quiqueck/BetterNether/pull/266) in [quiqueck/BetterNether](https://github.com/quiqueck/BetterNether)
+3. ❗ Opened issue [#89](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin/issues/89) in [kaiiiz/obsidian-raindrop-highlights-plugin](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin)
+4. 🗣 Commented on [#2815](https://github.com/radix-ui/primitives/issues/2815#issuecomment-2651899234) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
 5. 🗣 Commented on [#31261](https://github.com/microsoft/fluentui/issues/31261#issuecomment-2518628836) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 <!--END_SECTION:activity-->
 
