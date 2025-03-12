@@ -73,11 +73,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#266](https://github.com/quiqueck/BetterNether/pull/266#issuecomment-2694840861) in [quiqueck/BetterNether](https://github.com/quiqueck/BetterNether)
-2. ❌ Closed PR [#266](https://github.com/quiqueck/BetterNether/pull/266) in [quiqueck/BetterNether](https://github.com/quiqueck/BetterNether)
-3. ❗ Opened issue [#89](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin/issues/89) in [kaiiiz/obsidian-raindrop-highlights-plugin](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin)
-4. 🗣 Commented on [#2815](https://github.com/radix-ui/primitives/issues/2815#issuecomment-2651899234) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
-5. 🗣 Commented on [#31261](https://github.com/microsoft/fluentui/issues/31261#issuecomment-2518628836) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+1. 🗣 Commented on [#6816](https://github.com/axios/axios/issues/6816#issuecomment-2715313390) in [axios/axios](https://github.com/axios/axios)
+2. 🗣 Commented on [#266](https://github.com/quiqueck/BetterNether/pull/266#issuecomment-2694840861) in [quiqueck/BetterNether](https://github.com/quiqueck/BetterNether)
+3. ❌ Closed PR [#266](https://github.com/quiqueck/BetterNether/pull/266) in [quiqueck/BetterNether](https://github.com/quiqueck/BetterNether)
+4. ❗ Opened issue [#89](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin/issues/89) in [kaiiiz/obsidian-raindrop-highlights-plugin](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin)
+5. 🗣 Commented on [#2815](https://github.com/radix-ui/primitives/issues/2815#issuecomment-2651899234) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
 <!--END_SECTION:activity-->
 
 ### Experience With
