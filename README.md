@@ -73,11 +73,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2168](https://github.com/tailwindlabs/tailwindcss.com/pull/2168#issuecomment-2749116488) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-2. ❌ Closed PR [#2168](https://github.com/tailwindlabs/tailwindcss.com/pull/2168) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-3. 💪 Opened PR [#2168](https://github.com/tailwindlabs/tailwindcss.com/pull/2168) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-4. 🗣 Commented on [#636](https://github.com/react-dropzone/react-dropzone/issues/636#issuecomment-2748983602) in [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone)
-5. 🗣 Commented on [#3123](https://github.com/radix-ui/primitives/issues/3123#issuecomment-2730393677) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
+1. 💪 Opened PR [#2169](https://github.com/tailwindlabs/tailwindcss.com/pull/2169) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+2. 🗣 Commented on [#2168](https://github.com/tailwindlabs/tailwindcss.com/pull/2168#issuecomment-2749116488) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+3. ❌ Closed PR [#2168](https://github.com/tailwindlabs/tailwindcss.com/pull/2168) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+4. 💪 Opened PR [#2168](https://github.com/tailwindlabs/tailwindcss.com/pull/2168) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+5. 🗣 Commented on [#636](https://github.com/react-dropzone/react-dropzone/issues/636#issuecomment-2748983602) in [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone)
 <!--END_SECTION:activity-->
 
 ### Experience With
