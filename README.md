@@ -73,11 +73,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3123](https://github.com/radix-ui/primitives/issues/3123#issuecomment-2730393677) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
-2. 🗣 Commented on [#6816](https://github.com/axios/axios/issues/6816#issuecomment-2715313390) in [axios/axios](https://github.com/axios/axios)
-3. 🗣 Commented on [#266](https://github.com/quiqueck/BetterNether/pull/266#issuecomment-2694840861) in [quiqueck/BetterNether](https://github.com/quiqueck/BetterNether)
-4. ❌ Closed PR [#266](https://github.com/quiqueck/BetterNether/pull/266) in [quiqueck/BetterNether](https://github.com/quiqueck/BetterNether)
-5. ❗ Opened issue [#89](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin/issues/89) in [kaiiiz/obsidian-raindrop-highlights-plugin](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin)
+1. 🗣 Commented on [#636](https://github.com/react-dropzone/react-dropzone/issues/636#issuecomment-2748983602) in [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone)
+2. 🗣 Commented on [#3123](https://github.com/radix-ui/primitives/issues/3123#issuecomment-2730393677) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
+3. 🗣 Commented on [#6816](https://github.com/axios/axios/issues/6816#issuecomment-2715313390) in [axios/axios](https://github.com/axios/axios)
+4. 🗣 Commented on [#266](https://github.com/quiqueck/BetterNether/pull/266#issuecomment-2694840861) in [quiqueck/BetterNether](https://github.com/quiqueck/BetterNether)
+5. ❌ Closed PR [#266](https://github.com/quiqueck/BetterNether/pull/266) in [quiqueck/BetterNether](https://github.com/quiqueck/BetterNether)
 <!--END_SECTION:activity-->
 
 ### Experience With
