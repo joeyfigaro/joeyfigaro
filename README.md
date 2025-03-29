@@ -42,8 +42,12 @@
   </tbody>
 </table>
 
-- `OSS`: I contribute to [Rust web frameworks](https://github.com/actix/examples/pull/629#event-9891729908), [generative art toolkits](https://github.com/acamposuribe/p5.brush/pull/9), and publish [useful Github actions](https://github.com/joeyfigaro/action-conflict-finder) projects in my spare time.
-- I made a [fairly popular Sublime Text theme](https://packagecontrol.io/packages/Theme%20-%20Glacier) a long time ago
+## Notable Projects & Contributions
+- [TSUP library template](https://github.com/joeyfigaro/tsup-lib-template) my reusable template for TS libraries
+- [Conflict-Finder Action](https://github.com/joeyfigaro/action-conflict-finder)
+- [useMutationRedirect](https://github.com/joeyfigaro/use-mutation-redirect) (a React hook for post-mutate navigation side-effects)
+- [Glacier (Theme)](https://packagecontrol.io/packages/Theme%20-%20Glacier)
+- [Actix Examples](https://github.com/actix/examples/pull/629#event-9891729908)
 
 
 ## 🧑🏻‍💻 Current Side Projects
@@ -61,11 +65,6 @@
     - 💪🏻 [Typescript, Astro] sources
     - ⭕️ [MDX/Markdown] Examples
     - ⭕️ v1 release
-  - [@joeyfigaro/use-mutation-redirect](https://github.com/joeyfigaro/use-mutation-redirect) (a React hook for post-mutate navigation side-effects) `RELEASED`
-    - ✅ [Typescript] Sources
-    - ✅ [Typescript] Tests
-    - ✅ v1 release
-    - 💪🏻 [MDX/Markdown] Examples
 
 ---
 
