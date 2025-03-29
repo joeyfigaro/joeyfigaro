@@ -85,11 +85,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2169](https://github.com/tailwindlabs/tailwindcss.com/pull/2169) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-2. 🗣 Commented on [#2168](https://github.com/tailwindlabs/tailwindcss.com/pull/2168#issuecomment-2749116488) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-3. ❌ Closed PR [#2168](https://github.com/tailwindlabs/tailwindcss.com/pull/2168) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-4. 💪 Opened PR [#2168](https://github.com/tailwindlabs/tailwindcss.com/pull/2168) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-5. 🗣 Commented on [#636](https://github.com/react-dropzone/react-dropzone/issues/636#issuecomment-2748983602) in [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone)
+1. 🎉 Merged PR [#11](https://github.com/joeyfigaro/use-mutation-redirect/pull/11) in [joeyfigaro/use-mutation-redirect](https://github.com/joeyfigaro/use-mutation-redirect)
+2. 💪 Opened PR [#2169](https://github.com/tailwindlabs/tailwindcss.com/pull/2169) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+3. 🗣 Commented on [#2168](https://github.com/tailwindlabs/tailwindcss.com/pull/2168#issuecomment-2749116488) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+4. ❌ Closed PR [#2168](https://github.com/tailwindlabs/tailwindcss.com/pull/2168) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+5. 💪 Opened PR [#2168](https://github.com/tailwindlabs/tailwindcss.com/pull/2168) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
 <!--END_SECTION:activity-->
 
 ### Experience With
