@@ -65,6 +65,8 @@
     - 💪🏻 [Typescript, Astro] sources
     - ⭕️ [MDX/Markdown] Examples
     - ⭕️ v1 release
+  - [Dependafest](https://github.com/joeyfigaro/dependafest) (GH manifest scanning for improved packages UX) `IN-PROGRESS`
+    - 💪🏻 [Typescript] sources
 
 ---
 
