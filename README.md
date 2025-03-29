@@ -13,9 +13,6 @@
   <a href="https://x.com/_figarroh_" title="@_figarroh_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@_figarroh_" />
   </a>
-  <a href="mailto:introductions@shovelandsandbox.dev" title="introductions@shovelandsandbox.dev">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email me" />
-  </a>
   <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/BFBE50C7CAF6469DCE2D0A59AC0E2510BE8A9381" title="BFBE50C7CAF6469DCE2D0A59AC0E2510BE8A9381">
     <img src="https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU Privacy Guard&logoColor=0093DD" alt="BFBE50C7CAF6469DCE2D0A59AC0E2510BE8A9381" />
   </a>
@@ -29,7 +26,8 @@
     <tr>
       <td align="left">
         <div>
-          <p>For the last 9 years, I've worked on teams large and small to help build experiences for companies like <a   href="https://]https://www.ford.com">Ford</a>, <a href="https://www.tempurpedic.com">Tempur Pedic</a>, <a href="https://ihome.com">iHome</a>, <a href="https://measure.com">Measure</a>, <a href="http://saunders.mobelux.com">Mobelux</a>, <a href="https://theinfatuation.com">The Infatuation</a>, <a href="https://www.seasonalroots.com">Seasonal Roots</a>, <a href="https://www.simplethread.com/">Simple Thread</a> and more.</p>
+        <div>
+          <p>For the last 10 years, I've worked with diverse teams to solve problems for companies like <a   href="https://]https://www.ford.com">Ford</a>, <a href="https://www.tempurpedic.com">Tempur Pedic</a>, <a href="https://ihome.com">iHome</a>, <a href="https://measure.com">Measure</a>, <a href="http://saunders.mobelux.com">Mobelux</a>, <a href="https://theinfatuation.com">The Infatuation</a>, <a href="https://www.seasonalroots.com">Seasonal Roots</a>, <a href="https://www.simplethread.com/">Simple Thread</a> and more.</p>
 
           
 <p>If you're interested in <a href="https://shovelandsandbox.dev" target="_blank">working together</a> or would like to <a href="https://joeyfigaro.com" target="_blank">learn more about me</a> or <a href="https://joeyfigaro.com/projects" target="_blank">what I'm working on</a>, feel free to reach out.</p>
@@ -48,28 +46,42 @@
 - I made a [fairly popular Sublime Text theme](https://packagecontrol.io/packages/Theme%20-%20Glacier) a long time ago
 
 
-- 🧑🏻‍💻 I’m currently working on [Gamelens](https://github.com/gamelens)
-  - ✅ [Typescript, <a href="https://apify.com">Apify</a>] scheduled actors run daily to find public cover art for video games
-  - ✅ [<a href="https://apify.com">Apify</a>, <a href="https://developer.apple.com/machine-learning/create-ml/">Create ML</a>] results from actor runs are used to train a model (not automated yet)
-  - 💪🏻 [<a href="https://www.rust-lang.org/learn">Rust</a>, <a href="https://actix.rs/">Actix</a>] platform API serves up JSON for discovered games (in-progress)
-  - ⭕️ [Swift] iOS app
-
-- 🧠 I’m currently learning **Rust** and **Dutch** :netherlands:
+## 🧑🏻‍💻 Current Side Projects
+  - [Gamelens](https://github.com/gamelens) (a native CV app for identifying games on your TV) `IN-PROGRESS`
+    - ✅ [Typescript, <a href="https://apify.com">Apify</a>] scheduled actors run daily to find public cover art for video games
+    - ✅ [<a href="https://apify.com">Apify</a>, <a href="https://developer.apple.com/machine-learning/create-ml/">Create ML</a>] results from actor runs are used to train a model (not automated yet)
+    - ✅ [<a href="https://www.rust-lang.org/learn">Rust</a>, <a href="https://actix.rs/">Actix</a>] platform API serves up JSON for discovered games (in-progress)
+    - ⭕️ [Swift] iOS app
+  - [Blackhole.email](https://blackhole.email) (a tongue-in-cheek access gate for your inboxes) `IN-PROGRESS`
+    - ✅ Architecture
+    - 💪🏻 ZKP research
+    - ⭕️ [Typescript, React] Browser extension/local client
+    - ⭕️ [Typescript] Server
+  - [@joeyfigaro/astro-github](https://github.com/joeyfigaro/astro-github) (custom loader for GH data in Astro content collections) `IN-PROGRESS`
+    - 💪🏻 [Typescript, Astro] sources
+    - ⭕️ [MDX/Markdown] Examples
+    - ⭕️ v1 release
+  - [@joeyfigaro/use-mutation-redirect](https://github.com/joeyfigaro/use-mutation-redirect) (a React hook for post-mutate navigation side-effects) `RELEASED`
+    - ✅ [Typescript] Sources
+    - ✅ [Typescript] Tests
+    - ✅ v1 release
+    - 💪🏻 [MDX/Markdown] Examples
 
 ---
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Notable Projects
+- [`use-mutation-redirect`](https://github.com/joeyfigaro/use-mutation-redirect)
 - [The Infatuation](theinfatuation.com)
 - [Measure](https://gc.measure.com/login)
 - [Glacier](https://packagecontrol.io/packages/Theme%20-%20Glacier)
+- [EasyRCA](https://easyrca.com)
 
 ### Recent Activity
 <!--START_SECTION:activity-->
