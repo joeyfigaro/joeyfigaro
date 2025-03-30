@@ -86,11 +86,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/joeyfigaro/use-mutation-redirect/pull/11) in [joeyfigaro/use-mutation-redirect](https://github.com/joeyfigaro/use-mutation-redirect)
-2. 💪 Opened PR [#2169](https://github.com/tailwindlabs/tailwindcss.com/pull/2169) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-3. 🗣 Commented on [#2168](https://github.com/tailwindlabs/tailwindcss.com/pull/2168#issuecomment-2749116488) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-4. ❌ Closed PR [#2168](https://github.com/tailwindlabs/tailwindcss.com/pull/2168) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-5. 💪 Opened PR [#2168](https://github.com/tailwindlabs/tailwindcss.com/pull/2168) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+1. 💪 Opened PR [#6](https://github.com/joeyfigaro/tsup-lib-template/pull/6) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
+2. ❌ Closed PR [#5](https://github.com/joeyfigaro/tsup-lib-template/pull/5) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
+3. ❌ Closed PR [#4](https://github.com/joeyfigaro/tsup-lib-template/pull/4) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
+4. 🎉 Merged PR [#1](https://github.com/joeyfigaro/tsup-lib-template/pull/1) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
+5. ❌ Closed PR [#2](https://github.com/joeyfigaro/tsup-lib-template/pull/2) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
 <!--END_SECTION:activity-->
 
 ### Experience With
