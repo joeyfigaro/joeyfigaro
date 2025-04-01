@@ -86,11 +86,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/joeyfigaro/tsup-lib-template/pull/8) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
-2. 💪 Opened PR [#8](https://github.com/joeyfigaro/tsup-lib-template/pull/8) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
-3. 🎉 Merged PR [#6](https://github.com/joeyfigaro/tsup-lib-template/pull/6) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
-4. 💪 Opened PR [#6](https://github.com/joeyfigaro/tsup-lib-template/pull/6) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
-5. ❌ Closed PR [#5](https://github.com/joeyfigaro/tsup-lib-template/pull/5) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
+1. 🎉 Merged PR [#10](https://github.com/joeyfigaro/tsup-lib-template/pull/10) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
+2. 💪 Opened PR [#10](https://github.com/joeyfigaro/tsup-lib-template/pull/10) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
+3. 🎉 Merged PR [#9](https://github.com/joeyfigaro/tsup-lib-template/pull/9) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
+4. 💪 Opened PR [#9](https://github.com/joeyfigaro/tsup-lib-template/pull/9) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
+5. 🎉 Merged PR [#8](https://github.com/joeyfigaro/tsup-lib-template/pull/8) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
 <!--END_SECTION:activity-->
 
 ### Experience With
