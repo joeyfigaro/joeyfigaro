@@ -86,11 +86,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/joeyfigaro/hookery/pull/1) in [joeyfigaro/hookery](https://github.com/joeyfigaro/hookery)
-2. ❌ Closed PR [#7](https://github.com/joeyfigaro/tsup-lib-template/pull/7) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
-3. 🎉 Merged PR [#10](https://github.com/joeyfigaro/tsup-lib-template/pull/10) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
-4. 💪 Opened PR [#10](https://github.com/joeyfigaro/tsup-lib-template/pull/10) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
-5. 🎉 Merged PR [#9](https://github.com/joeyfigaro/tsup-lib-template/pull/9) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
+1. 🗣 Commented on [#2169](https://github.com/tailwindlabs/tailwindcss.com/pull/2169#issuecomment-2776780464) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+2. 💪 Opened PR [#1](https://github.com/joeyfigaro/hookery/pull/1) in [joeyfigaro/hookery](https://github.com/joeyfigaro/hookery)
+3. ❌ Closed PR [#7](https://github.com/joeyfigaro/tsup-lib-template/pull/7) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
+4. 🎉 Merged PR [#10](https://github.com/joeyfigaro/tsup-lib-template/pull/10) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
+5. 💪 Opened PR [#10](https://github.com/joeyfigaro/tsup-lib-template/pull/10) in [joeyfigaro/tsup-lib-template](https://github.com/joeyfigaro/tsup-lib-template)
 <!--END_SECTION:activity-->
 
 ### Experience With
