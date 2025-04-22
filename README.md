@@ -66,11 +66,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#246](https://github.com/leather-io/earn/issues/246#issuecomment-2810522036) in [leather-io/earn](https://github.com/leather-io/earn)
-2. ❗ Opened issue [#246](https://github.com/leather-io/earn/issues/246) in [leather-io/earn](https://github.com/leather-io/earn)
-3. 🗣 Commented on [#1](https://github.com/MichiganTypeScript/typescript-stumble/issues/1#issuecomment-2798131601) in [MichiganTypeScript/typescript-stumble](https://github.com/MichiganTypeScript/typescript-stumble)
-4. 🗣 Commented on [#2169](https://github.com/tailwindlabs/tailwindcss.com/pull/2169#issuecomment-2776780464) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-5. 💪 Opened PR [#1](https://github.com/joeyfigaro/hookery/pull/1) in [joeyfigaro/hookery](https://github.com/joeyfigaro/hookery)
+1. 🗣 Commented on [#731](https://github.com/anonaddy/anonaddy/issues/731#issuecomment-2819828692) in [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy)
+2. 🔒 Closed issue [#731](https://github.com/anonaddy/anonaddy/issues/731) in [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy)
+3. ❗ Opened issue [#731](https://github.com/anonaddy/anonaddy/issues/731) in [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy)
+4. 🗣 Commented on [#246](https://github.com/leather-io/earn/issues/246#issuecomment-2810522036) in [leather-io/earn](https://github.com/leather-io/earn)
+5. ❗ Opened issue [#246](https://github.com/leather-io/earn/issues/246) in [leather-io/earn](https://github.com/leather-io/earn)
 <!--END_SECTION:activity-->
 
 ### Experience With
