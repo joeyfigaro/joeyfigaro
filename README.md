@@ -66,11 +66,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#731](https://github.com/anonaddy/anonaddy/issues/731#issuecomment-2819828692) in [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy)
-2. 🔒 Closed issue [#731](https://github.com/anonaddy/anonaddy/issues/731) in [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy)
-3. ❗ Opened issue [#731](https://github.com/anonaddy/anonaddy/issues/731) in [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy)
-4. 🗣 Commented on [#246](https://github.com/leather-io/earn/issues/246#issuecomment-2810522036) in [leather-io/earn](https://github.com/leather-io/earn)
-5. ❗ Opened issue [#246](https://github.com/leather-io/earn/issues/246) in [leather-io/earn](https://github.com/leather-io/earn)
+1. 🗣 Commented on [#1241](https://github.com/radix-ui/primitives/issues/1241#issuecomment-2881444686) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
+2. 🗣 Commented on [#731](https://github.com/anonaddy/anonaddy/issues/731#issuecomment-2819828692) in [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy)
+3. 🔒 Closed issue [#731](https://github.com/anonaddy/anonaddy/issues/731) in [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy)
+4. ❗ Opened issue [#731](https://github.com/anonaddy/anonaddy/issues/731) in [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy)
+5. 🗣 Commented on [#246](https://github.com/leather-io/earn/issues/246#issuecomment-2810522036) in [leather-io/earn](https://github.com/leather-io/earn)
 <!--END_SECTION:activity-->
 
 ### Experience With
