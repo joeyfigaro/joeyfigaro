@@ -66,11 +66,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#248](https://github.com/dominikbraun/timetrace/issues/248#issuecomment-2887590067) in [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace)
-2. 🗣 Commented on [#1241](https://github.com/radix-ui/primitives/issues/1241#issuecomment-2881444686) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
-3. 🗣 Commented on [#731](https://github.com/anonaddy/anonaddy/issues/731#issuecomment-2819828692) in [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy)
-4. 🔒 Closed issue [#731](https://github.com/anonaddy/anonaddy/issues/731) in [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy)
-5. ❗ Opened issue [#731](https://github.com/anonaddy/anonaddy/issues/731) in [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy)
+1. 🎉 Merged PR [#6](https://github.com/joeyfigaro/use-mutation-redirect/pull/6) in [joeyfigaro/use-mutation-redirect](https://github.com/joeyfigaro/use-mutation-redirect)
+2. 🎉 Merged PR [#5](https://github.com/joeyfigaro/use-mutation-redirect/pull/5) in [joeyfigaro/use-mutation-redirect](https://github.com/joeyfigaro/use-mutation-redirect)
+3. 🎉 Merged PR [#4](https://github.com/joeyfigaro/use-mutation-redirect/pull/4) in [joeyfigaro/use-mutation-redirect](https://github.com/joeyfigaro/use-mutation-redirect)
+4. 🗣 Commented on [#248](https://github.com/dominikbraun/timetrace/issues/248#issuecomment-2887590067) in [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace)
+5. 🗣 Commented on [#1241](https://github.com/radix-ui/primitives/issues/1241#issuecomment-2881444686) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
 <!--END_SECTION:activity-->
 
 ### Experience With
