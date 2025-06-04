@@ -41,7 +41,7 @@
     - 💪🏻 ZKP research
     - ⭕️ [Typescript, React] Browser extension/local client
     - ⭕️ [Typescript] Server
-  - [@joeyfigaro/astro-github](https://github.com/joeyfigaro/astro-github) (custom loader for GH data in Astro content collections) `IN-PROGRESS`
+  - [@joeyfigaro/astro-github](https://github.com/joeyfigaro/astro-github) (custom loader for GH data in Astro content collections) `PAUSED`
     - 💪🏻 [Typescript, Astro] sources
     - ⭕️ [MDX/Markdown] Examples
     - ⭕️ v1 release
