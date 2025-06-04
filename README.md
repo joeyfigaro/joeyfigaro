@@ -34,7 +34,7 @@
   - [Gamelens](https://github.com/gamelens) (a native CV app for identifying games on your TV) `IN-PROGRESS`
     - ✅ [Typescript, <a href="https://apify.com">Apify</a>] scheduled actors run daily to find public cover art for video games
     - ✅ [<a href="https://apify.com">Apify</a>, <a href="https://developer.apple.com/machine-learning/create-ml/">Create ML</a>] results from actor runs are used to train a model (not automated yet)
-    - ✅ [<a href="https://www.rust-lang.org/learn">Rust</a>, <a href="https://actix.rs/">Actix</a>] platform API serves up JSON for discovered games (in-progress)
+    - ✅ [<a href="https://www.rust-lang.org/learn">Rust</a>, <a href="https://actix.rs/">Actix</a>] platform API serves up JSON for discovered games
     - ⭕️ [Swift] iOS app
   - [Blackhole.email](https://blackhole.email) (a tongue-in-cheek access gate for your inboxes) `IN-PROGRESS`
     - ✅ Architecture
