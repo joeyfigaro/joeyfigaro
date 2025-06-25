@@ -69,10 +69,10 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#419](https://github.com/rolod0x/rolod0x/issues/419#issuecomment-2994374972) in [rolod0x/rolod0x](https://github.com/rolod0x/rolod0x)
-2. 🗣 Commented on [#246](https://github.com/leather-io/earn/issues/246#issuecomment-2994374642) in [leather-io/earn](https://github.com/leather-io/earn)
-3. ❗ Opened issue [#45](https://github.com/lightninglabs/lightning-api-ng/issues/45) in [lightninglabs/lightning-api-ng](https://github.com/lightninglabs/lightning-api-ng)
-4. 🎉 Merged PR [#4](https://github.com/joeyfigaro/use-mutation-redirect/pull/4) in [joeyfigaro/use-mutation-redirect](https://github.com/joeyfigaro/use-mutation-redirect)
+1. 🗣 Commented on [#1](https://github.com/bcrotty/glacier-black-vscode/issues/1#issuecomment-3000910306) in [bcrotty/glacier-black-vscode](https://github.com/bcrotty/glacier-black-vscode)
+2. 🗣 Commented on [#419](https://github.com/rolod0x/rolod0x/issues/419#issuecomment-2994374972) in [rolod0x/rolod0x](https://github.com/rolod0x/rolod0x)
+3. 🗣 Commented on [#246](https://github.com/leather-io/earn/issues/246#issuecomment-2994374642) in [leather-io/earn](https://github.com/leather-io/earn)
+4. ❗ Opened issue [#45](https://github.com/lightninglabs/lightning-api-ng/issues/45) in [lightninglabs/lightning-api-ng](https://github.com/lightninglabs/lightning-api-ng)
 5. 🗣 Commented on [#248](https://github.com/dominikbraun/timetrace/issues/248#issuecomment-2887590067) in [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace)
 <!--END_SECTION:activity-->
 
