@@ -69,9 +69,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/BullsEye0/shodan-eye/issues/15#issuecomment-3193860665) in [BullsEye0/shodan-eye](https://github.com/BullsEye0/shodan-eye)
-2. 🗣 Commented on [#15](https://github.com/BullsEye0/shodan-eye/issues/15#issuecomment-3193834972) in [BullsEye0/shodan-eye](https://github.com/BullsEye0/shodan-eye)
-3. 🗣 Commented on [#28](https://github.com/Surfer-Org/Protocol/issues/28#issuecomment-3199450290) in [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol)
+1. ❗ Opened issue [#53](https://github.com/legions-developer/invoicely/issues/53) in [legions-developer/invoicely](https://github.com/legions-developer/invoicely)
+2. 🗣 Commented on [#7](https://github.com/Jerry23011/VirusTotal-macOS/issues/7#issuecomment-3244777471) in [Jerry23011/VirusTotal-macOS](https://github.com/Jerry23011/VirusTotal-macOS)
+3. ❗ Opened issue [#298](https://github.com/apollographql/vscode-graphql/issues/298) in [apollographql/vscode-graphql](https://github.com/apollographql/vscode-graphql)
 4. 🗣 Commented on [#15](https://github.com/BullsEye0/shodan-eye/issues/15#issuecomment-3193860665) in [BullsEye0/shodan-eye](https://github.com/BullsEye0/shodan-eye)
 5. 🗣 Commented on [#15](https://github.com/BullsEye0/shodan-eye/issues/15#issuecomment-3193834972) in [BullsEye0/shodan-eye](https://github.com/BullsEye0/shodan-eye)
 <!--END_SECTION:activity-->
