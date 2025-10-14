@@ -70,7 +70,7 @@
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#414](https://github.com/aidenybai/react-scan/pull/414#issuecomment-3390942478) in [aidenybai/react-scan](https://github.com/aidenybai/react-scan)
-2. 💪 Opened PR [#414](https://github.com/aidenybai/react-scan/pull/414) in [aidenybai/react-scan](https://github.com/aidenybai/react-scan)
+2. 💪 Opened PR [#414](undefined) in [aidenybai/react-scan](https://github.com/aidenybai/react-scan)
 3. 🗣 Commented on [#260](https://github.com/welldone-software/why-did-you-render/issues/260#issuecomment-3360412475) in [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render)
 4. ❗ Opened issue [#11](https://github.com/chainflip-io/chainflip-docs-portal/issues/11) in [chainflip-io/chainflip-docs-portal](https://github.com/chainflip-io/chainflip-docs-portal)
 5. ❗ Opened issue [#10](https://github.com/chainflip-io/chainflip-docs-portal/issues/10) in [chainflip-io/chainflip-docs-portal](https://github.com/chainflip-io/chainflip-docs-portal)
