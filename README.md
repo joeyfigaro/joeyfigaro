@@ -69,11 +69,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3538788818) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
-2. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3536277470) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
-3. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3476525926) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
-4. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3476481685) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
-5. 🗣 Commented on [#404](https://github.com/aidenybai/react-scan/issues/404#issuecomment-3473119588) in [aidenybai/react-scan](https://github.com/aidenybai/react-scan)
+1. 🗣 Commented on [#20](https://github.com/anonaddy/browser-extension/issues/20#issuecomment-3589543548) in [anonaddy/browser-extension](https://github.com/anonaddy/browser-extension)
+2. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3538788818) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
+3. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3536277470) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
+4. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3476525926) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
+5. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3476481685) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
 <!--END_SECTION:activity-->
 
 ### Experience With
