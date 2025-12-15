@@ -69,11 +69,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3627268535) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
-2. 🗣 Commented on [#20](https://github.com/anonaddy/browser-extension/issues/20#issuecomment-3589543548) in [anonaddy/browser-extension](https://github.com/anonaddy/browser-extension)
-3. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3538788818) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
-4. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3536277470) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
-5. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3476481685) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
+1. ❗ Opened issue [#23](https://github.com/gommzystudio/device-activity-tracker/issues/23) in [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker)
+2. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3627268535) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
+3. 🗣 Commented on [#20](https://github.com/anonaddy/browser-extension/issues/20#issuecomment-3589543548) in [anonaddy/browser-extension](https://github.com/anonaddy/browser-extension)
+4. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3538788818) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
+5. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3536277470) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
 <!--END_SECTION:activity-->
 
 ### Experience With
