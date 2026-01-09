@@ -31,6 +31,9 @@
 
 
 ## 🧑🏻‍💻 Current Side Projects
+  - Opensauce (multi-platform feed for (F)OSS showcasing) `IN-PROGRESS`
+    - ✅ [Typescript, <a href="https://apify.com">Apify</a>] actors for finding content
+    - ✅ [Express] platform API for responding to content discovery results
   - [Gamelens](https://github.com/gamelens) (a native CV app for identifying games on your TV) `IN-PROGRESS`
     - ✅ [Typescript, <a href="https://apify.com">Apify</a>] scheduled actors run daily to find public cover art for video games
     - ✅ [<a href="https://apify.com">Apify</a>, <a href="https://developer.apple.com/machine-learning/create-ml/">Create ML</a>] results from actor runs are used to train a model (not automated yet)
