@@ -31,7 +31,7 @@
 
 
 ## 🧑🏻‍💻 Current Side Projects
-  - Opensauce (multi-platform feed for (F)OSS showcasing) `IN-PROGRESS`
+  - [Opensauce]() multi-platform feed for (F)OSS showcasing `IN-PROGRESS`
     - ✅ [Typescript, <a href="https://apify.com">Apify</a>] actors for finding content
     - ✅ [Express] platform API for responding to content discovery results
   - [Gamelens](https://github.com/gamelens) (a native CV app for identifying games on your TV) `IN-PROGRESS`
