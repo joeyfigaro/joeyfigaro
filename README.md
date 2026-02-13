@@ -29,6 +29,9 @@
 - [Glacier (Theme)](https://packagecontrol.io/packages/Theme%20-%20Glacier)
 - [Actix Examples](https://github.com/actix/examples/pull/629#event-9891729908)
 
+## My Setup
+- [Claude Skills](https://github.com/joeyfigaro/claude-skills)
+- [Dotfiles (soon)](#)
 
 ## 🧑🏻‍💻 Current Side Projects
   - [Opensauce]() multi-platform feed for (F)OSS showcasing `IN-PROGRESS`
