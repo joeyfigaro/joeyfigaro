@@ -20,6 +20,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
+        env:
+            ACCESS_TOKEN: ${{ secrets.README_STATS_PAT }}
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
