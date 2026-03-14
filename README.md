@@ -68,6 +68,7 @@
 
 ### Notable Projects
 - [`use-mutation-redirect`](https://github.com/joeyfigaro/use-mutation-redirect)
+- [Alchemy](https://alchemyrpg.com)
 - [The Infatuation](theinfatuation.com)
 - [Measure](https://gc.measure.com/login)
 - [Glacier](https://packagecontrol.io/packages/Theme%20-%20Glacier)
