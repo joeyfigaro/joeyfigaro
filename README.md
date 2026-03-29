@@ -76,8 +76,8 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2169](https://github.com/recharts/recharts/issues/2169#issuecomment-4089967962) in [recharts/recharts](https://github.com/recharts/recharts)
-2. 💪 Opened PR [#6](https://github.com/busse/molt-in-the-mist/pull/6) in [busse/molt-in-the-mist](https://github.com/busse/molt-in-the-mist)
+1. ❗ Opened issue [#4](https://github.com/pvd-nerd/docker-arr-suite/issues/4) in [pvd-nerd/docker-arr-suite](https://github.com/pvd-nerd/docker-arr-suite)
+2. 🗣 Commented on [#2169](https://github.com/recharts/recharts/issues/2169#issuecomment-4089967962) in [recharts/recharts](https://github.com/recharts/recharts)
 3. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3627268535) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
 4. 🗣 Commented on [#20](https://github.com/anonaddy/browser-extension/issues/20#issuecomment-3589543548) in [anonaddy/browser-extension](https://github.com/anonaddy/browser-extension)
 5. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3536277470) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
