@@ -76,11 +76,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#3882](https://github.com/simstudioai/sim/issues/3882) in [simstudioai/sim](https://github.com/simstudioai/sim)
-2. ❗ Opened issue [#3882](https://github.com/simstudioai/sim/issues/3882) in [simstudioai/sim](https://github.com/simstudioai/sim)
-3. ❗ Opened issue [#4](https://github.com/pvd-nerd/docker-arr-suite/issues/4) in [pvd-nerd/docker-arr-suite](https://github.com/pvd-nerd/docker-arr-suite)
-4. 🗣 Commented on [#2169](https://github.com/recharts/recharts/issues/2169#issuecomment-4089967962) in [recharts/recharts](https://github.com/recharts/recharts)
-5. 🗣 Commented on [#7267](https://github.com/Chocobozzz/PeerTube/issues/7267#issuecomment-3536277470) in [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
+1. 🗣 Commented on [#895](https://github.com/simstudioai/sim/issues/895#issuecomment-4172383931) in [simstudioai/sim](https://github.com/simstudioai/sim)
+2. ℹ️ Labeled issue [#3882](https://github.com/simstudioai/sim/issues/3882) in [simstudioai/sim](https://github.com/simstudioai/sim)
+3. ❗ Opened issue [#3882](https://github.com/simstudioai/sim/issues/3882) in [simstudioai/sim](https://github.com/simstudioai/sim)
+4. ❗ Opened issue [#4](https://github.com/pvd-nerd/docker-arr-suite/issues/4) in [pvd-nerd/docker-arr-suite](https://github.com/pvd-nerd/docker-arr-suite)
+5. 🗣 Commented on [#2169](https://github.com/recharts/recharts/issues/2169#issuecomment-4089967962) in [recharts/recharts](https://github.com/recharts/recharts)
 <!--END_SECTION:activity-->
 
 ### Experience With
