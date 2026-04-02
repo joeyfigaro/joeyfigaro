@@ -76,11 +76,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#895](https://github.com/simstudioai/sim/issues/895#issuecomment-4172383931) in [simstudioai/sim](https://github.com/simstudioai/sim)
-2. ℹ️ Labeled issue [#3882](https://github.com/simstudioai/sim/issues/3882) in [simstudioai/sim](https://github.com/simstudioai/sim)
-3. ❗ Opened issue [#3882](https://github.com/simstudioai/sim/issues/3882) in [simstudioai/sim](https://github.com/simstudioai/sim)
-4. ❗ Opened issue [#4](https://github.com/pvd-nerd/docker-arr-suite/issues/4) in [pvd-nerd/docker-arr-suite](https://github.com/pvd-nerd/docker-arr-suite)
-5. 🗣 Commented on [#2169](https://github.com/recharts/recharts/issues/2169#issuecomment-4089967962) in [recharts/recharts](https://github.com/recharts/recharts)
+1. 🗣 Commented on [#5](https://github.com/elb-pr/claudikins-kernel/issues/5#issuecomment-4177034401) in [elb-pr/claudikins-kernel](https://github.com/elb-pr/claudikins-kernel)
+2. 🗣 Commented on [#895](https://github.com/simstudioai/sim/issues/895#issuecomment-4172383931) in [simstudioai/sim](https://github.com/simstudioai/sim)
+3. ℹ️ Labeled issue [#3882](https://github.com/simstudioai/sim/issues/3882) in [simstudioai/sim](https://github.com/simstudioai/sim)
+4. ❗ Opened issue [#3882](https://github.com/simstudioai/sim/issues/3882) in [simstudioai/sim](https://github.com/simstudioai/sim)
+5. ❗ Opened issue [#4](https://github.com/pvd-nerd/docker-arr-suite/issues/4) in [pvd-nerd/docker-arr-suite](https://github.com/pvd-nerd/docker-arr-suite)
 <!--END_SECTION:activity-->
 
 ### Experience With
