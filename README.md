@@ -76,11 +76,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/elb-pr/claudikins-kernel/issues/5#issuecomment-4177034401) in [elb-pr/claudikins-kernel](https://github.com/elb-pr/claudikins-kernel)
-2. 🗣 Commented on [#895](https://github.com/simstudioai/sim/issues/895#issuecomment-4172383931) in [simstudioai/sim](https://github.com/simstudioai/sim)
-3. ℹ️ Labeled issue [#3882](https://github.com/simstudioai/sim/issues/3882) in [simstudioai/sim](https://github.com/simstudioai/sim)
-4. ❗ Opened issue [#3882](https://github.com/simstudioai/sim/issues/3882) in [simstudioai/sim](https://github.com/simstudioai/sim)
-5. ❗ Opened issue [#4](https://github.com/pvd-nerd/docker-arr-suite/issues/4) in [pvd-nerd/docker-arr-suite](https://github.com/pvd-nerd/docker-arr-suite)
+1. 🗣 Commented on [#2544](https://github.com/NousResearch/hermes-agent/issues/2544#issuecomment-4189044519) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+2. 🗣 Commented on [#5](https://github.com/elb-pr/claudikins-kernel/issues/5#issuecomment-4177034401) in [elb-pr/claudikins-kernel](https://github.com/elb-pr/claudikins-kernel)
+3. 🗣 Commented on [#895](https://github.com/simstudioai/sim/issues/895#issuecomment-4172383931) in [simstudioai/sim](https://github.com/simstudioai/sim)
+4. ℹ️ Labeled issue [#3882](https://github.com/simstudioai/sim/issues/3882) in [simstudioai/sim](https://github.com/simstudioai/sim)
+5. ❗ Opened issue [#3882](https://github.com/simstudioai/sim/issues/3882) in [simstudioai/sim](https://github.com/simstudioai/sim)
 <!--END_SECTION:activity-->
 
 ### Experience With
