@@ -76,7 +76,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#22](https://github.com/vcamapp/app/issues/22) in [vcamapp/app](https://github.com/vcamapp/app)
+1. ❗ Opened issue [#3787](https://github.com/triggerdotdev/trigger.dev/issues/3787) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 2. 🗣 Commented on [#2544](https://github.com/NousResearch/hermes-agent/issues/2544#issuecomment-4189044519) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 3. 🗣 Commented on [#5](https://github.com/elb-pr/claudikins-kernel/issues/5#issuecomment-4177034401) in [elb-pr/claudikins-kernel](https://github.com/elb-pr/claudikins-kernel)
 4. 🗣 Commented on [#895](https://github.com/simstudioai/sim/issues/895#issuecomment-4172383931) in [simstudioai/sim](https://github.com/simstudioai/sim)
