@@ -77,11 +77,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Weldd2/AdobeFontDownloader/pull/3) in [Weldd2/AdobeFontDownloader](https://github.com/Weldd2/AdobeFontDownloader)
-2. 💪 Opened PR [#3](https://github.com/Weldd2/AdobeFontDownloader/pull/3) in [Weldd2/AdobeFontDownloader](https://github.com/Weldd2/AdobeFontDownloader)
-3. 💪 Opened PR [#3](https://github.com/BriocheMasquee/a-translator/pull/3) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
-4. ❗ Opened issue [#3787](https://github.com/triggerdotdev/trigger.dev/issues/3787) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
-5. ℹ️ Labeled issue [#3882](https://github.com/simstudioai/sim/issues/3882) in [simstudioai/sim](https://github.com/simstudioai/sim)
+1. 🎉 Merged PR [#3](https://github.com/BriocheMasquee/a-translator/pull/3) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
+2. 🎉 Merged PR [#3](https://github.com/Weldd2/AdobeFontDownloader/pull/3) in [Weldd2/AdobeFontDownloader](https://github.com/Weldd2/AdobeFontDownloader)
+3. 💪 Opened PR [#3](https://github.com/Weldd2/AdobeFontDownloader/pull/3) in [Weldd2/AdobeFontDownloader](https://github.com/Weldd2/AdobeFontDownloader)
+4. 💪 Opened PR [#3](https://github.com/BriocheMasquee/a-translator/pull/3) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
+5. ❗ Opened issue [#3787](https://github.com/triggerdotdev/trigger.dev/issues/3787) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 <!--END_SECTION:activity-->
 
 ### Experience
