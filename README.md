@@ -77,10 +77,10 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Weldd2/AdobeFontDownloader/pull/3) in [Weldd2/AdobeFontDownloader](https://github.com/Weldd2/AdobeFontDownloader)
-2. 💪 Opened PR [#3](https://github.com/BriocheMasquee/a-translator/pull/3) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
-3. ❗ Opened issue [#3787](https://github.com/triggerdotdev/trigger.dev/issues/3787) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
-4. 🗣 Commented on [#895](https://github.com/simstudioai/sim/issues/895#issuecomment-4172383931) in [simstudioai/sim](https://github.com/simstudioai/sim)
+1. 🎉 Merged PR [#3](https://github.com/Weldd2/AdobeFontDownloader/pull/3) in [Weldd2/AdobeFontDownloader](https://github.com/Weldd2/AdobeFontDownloader)
+2. 💪 Opened PR [#3](https://github.com/Weldd2/AdobeFontDownloader/pull/3) in [Weldd2/AdobeFontDownloader](https://github.com/Weldd2/AdobeFontDownloader)
+3. 💪 Opened PR [#3](https://github.com/BriocheMasquee/a-translator/pull/3) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
+4. ❗ Opened issue [#3787](https://github.com/triggerdotdev/trigger.dev/issues/3787) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 5. ℹ️ Labeled issue [#3882](https://github.com/simstudioai/sim/issues/3882) in [simstudioai/sim](https://github.com/simstudioai/sim)
 <!--END_SECTION:activity-->
 
