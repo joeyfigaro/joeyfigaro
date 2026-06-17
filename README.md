@@ -77,11 +77,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/BriocheMasquee/a-translator/pull/4) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
-2. 💪 Opened PR [#4](https://github.com/BriocheMasquee/a-translator/pull/4) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
-3. 🎉 Merged PR [#3](https://github.com/BriocheMasquee/a-translator/pull/3) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
-4. 🎉 Merged PR [#3](https://github.com/Weldd2/AdobeFontDownloader/pull/3) in [Weldd2/AdobeFontDownloader](https://github.com/Weldd2/AdobeFontDownloader)
-5. 💪 Opened PR [#3](https://github.com/Weldd2/AdobeFontDownloader/pull/3) in [Weldd2/AdobeFontDownloader](https://github.com/Weldd2/AdobeFontDownloader)
+1. ℹ️ Labeled issue [#188](https://github.com/transmute-app/transmute/issues/188) in [transmute-app/transmute](https://github.com/transmute-app/transmute)
+2. ❗ Opened issue [#188](https://github.com/transmute-app/transmute/issues/188) in [transmute-app/transmute](https://github.com/transmute-app/transmute)
+3. 🎉 Merged PR [#4](https://github.com/BriocheMasquee/a-translator/pull/4) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
+4. 💪 Opened PR [#4](https://github.com/BriocheMasquee/a-translator/pull/4) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
+5. 🎉 Merged PR [#3](https://github.com/BriocheMasquee/a-translator/pull/3) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
 <!--END_SECTION:activity-->
 
 ### Experience
