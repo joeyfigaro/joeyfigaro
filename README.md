@@ -77,11 +77,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#188](https://github.com/transmute-app/transmute/issues/188) in [transmute-app/transmute](https://github.com/transmute-app/transmute)
-2. ❗ Opened issue [#188](https://github.com/transmute-app/transmute/issues/188) in [transmute-app/transmute](https://github.com/transmute-app/transmute)
-3. 🎉 Merged PR [#4](https://github.com/BriocheMasquee/a-translator/pull/4) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
-4. 💪 Opened PR [#4](https://github.com/BriocheMasquee/a-translator/pull/4) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
-5. 🎉 Merged PR [#3](https://github.com/BriocheMasquee/a-translator/pull/3) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
+1. 💪 Opened PR [#25](https://github.com/budarin/vite-plugin-webmanifest/pull/25) in [budarin/vite-plugin-webmanifest](https://github.com/budarin/vite-plugin-webmanifest)
+2. ℹ️ Labeled issue [#188](https://github.com/transmute-app/transmute/issues/188) in [transmute-app/transmute](https://github.com/transmute-app/transmute)
+3. ❗ Opened issue [#188](https://github.com/transmute-app/transmute/issues/188) in [transmute-app/transmute](https://github.com/transmute-app/transmute)
+4. 🎉 Merged PR [#4](https://github.com/BriocheMasquee/a-translator/pull/4) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
+5. 💪 Opened PR [#4](https://github.com/BriocheMasquee/a-translator/pull/4) in [BriocheMasquee/a-translator](https://github.com/BriocheMasquee/a-translator)
 <!--END_SECTION:activity-->
 
 ### Experience
