@@ -77,11 +77,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56397](https://github.com/anthropics/claude-code/issues/56397#issuecomment-4826053537) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-2. ❗ Opened issue [#26795](https://github.com/strapi/strapi/issues/26795) in [strapi/strapi](https://github.com/strapi/strapi)
-3. ❗ Opened issue [#26794](https://github.com/strapi/strapi/issues/26794) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 💪 Opened PR [#25](https://github.com/budarin/vite-plugin-webmanifest/pull/25) in [budarin/vite-plugin-webmanifest](https://github.com/budarin/vite-plugin-webmanifest)
-5. ℹ️ Labeled issue [#188](https://github.com/transmute-app/transmute/issues/188) in [transmute-app/transmute](https://github.com/transmute-app/transmute)
+1. ℹ️ Labeled issue [#7114](https://github.com/tinacms/tinacms/issues/7114) in [tinacms/tinacms](https://github.com/tinacms/tinacms)
+2. ℹ️ Labeled issue [#7114](https://github.com/tinacms/tinacms/issues/7114) in [tinacms/tinacms](https://github.com/tinacms/tinacms)
+3. ❗ Opened issue [#7114](https://github.com/tinacms/tinacms/issues/7114) in [tinacms/tinacms](https://github.com/tinacms/tinacms)
+4. 🗣 Commented on [#56397](https://github.com/anthropics/claude-code/issues/56397#issuecomment-4826053537) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+5. ❗ Opened issue [#26795](https://github.com/strapi/strapi/issues/26795) in [strapi/strapi](https://github.com/strapi/strapi)
 <!--END_SECTION:activity-->
 
 ### Experience
