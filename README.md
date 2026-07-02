@@ -77,11 +77,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#160](https://github.com/KarimMokhtar/react-drag-drop-files/pull/160) in [KarimMokhtar/react-drag-drop-files](https://github.com/KarimMokhtar/react-drag-drop-files)
-2. 💪 Opened PR [#159](https://github.com/KarimMokhtar/react-drag-drop-files/pull/159) in [KarimMokhtar/react-drag-drop-files](https://github.com/KarimMokhtar/react-drag-drop-files)
-3. ℹ️ Labeled issue [#7114](https://github.com/tinacms/tinacms/issues/7114) in [tinacms/tinacms](https://github.com/tinacms/tinacms)
+1. 🗣 Commented on [#7114](https://github.com/tinacms/tinacms/issues/7114#issuecomment-4869264699) in [tinacms/tinacms](https://github.com/tinacms/tinacms)
+2. 💪 Opened PR [#160](https://github.com/KarimMokhtar/react-drag-drop-files/pull/160) in [KarimMokhtar/react-drag-drop-files](https://github.com/KarimMokhtar/react-drag-drop-files)
+3. 💪 Opened PR [#159](https://github.com/KarimMokhtar/react-drag-drop-files/pull/159) in [KarimMokhtar/react-drag-drop-files](https://github.com/KarimMokhtar/react-drag-drop-files)
 4. ℹ️ Labeled issue [#7114](https://github.com/tinacms/tinacms/issues/7114) in [tinacms/tinacms](https://github.com/tinacms/tinacms)
-5. ❗ Opened issue [#7114](https://github.com/tinacms/tinacms/issues/7114) in [tinacms/tinacms](https://github.com/tinacms/tinacms)
+5. ℹ️ Labeled issue [#7114](https://github.com/tinacms/tinacms/issues/7114) in [tinacms/tinacms](https://github.com/tinacms/tinacms)
 <!--END_SECTION:activity-->
 
 ### Experience
