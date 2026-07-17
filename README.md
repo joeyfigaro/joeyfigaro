@@ -77,11 +77,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2241](https://github.com/lissy93/dashy/issues/2241) in [lissy93/dashy](https://github.com/lissy93/dashy)
-2. ℹ️ Assigned issue [#2241](https://github.com/lissy93/dashy/issues/2241) in [lissy93/dashy](https://github.com/lissy93/dashy)
-3. ❗ Opened issue [#2241](https://github.com/lissy93/dashy/issues/2241) in [lissy93/dashy](https://github.com/lissy93/dashy)
-4. ℹ️ Labeled issue [#469](https://github.com/Ryubing/Issues/issues/469) in [Ryubing/Issues](https://github.com/Ryubing/Issues)
-5. ❗ Opened issue [#469](https://github.com/Ryubing/Issues/issues/469) in [Ryubing/Issues](https://github.com/Ryubing/Issues)
+1. ℹ️ Labeled issue [#8374](https://github.com/hummingbot/hummingbot/issues/8374) in [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)
+2. ❗ Opened issue [#8374](https://github.com/hummingbot/hummingbot/issues/8374) in [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)
+3. ℹ️ Labeled issue [#2241](https://github.com/lissy93/dashy/issues/2241) in [lissy93/dashy](https://github.com/lissy93/dashy)
+4. ℹ️ Assigned issue [#2241](https://github.com/lissy93/dashy/issues/2241) in [lissy93/dashy](https://github.com/lissy93/dashy)
+5. ❗ Opened issue [#2241](https://github.com/lissy93/dashy/issues/2241) in [lissy93/dashy](https://github.com/lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ### Experience
