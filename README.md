@@ -77,11 +77,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#8374](https://github.com/hummingbot/hummingbot/issues/8374) in [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)
-2. ❗ Opened issue [#8374](https://github.com/hummingbot/hummingbot/issues/8374) in [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)
-3. ℹ️ Labeled issue [#2241](https://github.com/lissy93/dashy/issues/2241) in [lissy93/dashy](https://github.com/lissy93/dashy)
-4. ℹ️ Assigned issue [#2241](https://github.com/lissy93/dashy/issues/2241) in [lissy93/dashy](https://github.com/lissy93/dashy)
-5. ❗ Opened issue [#2241](https://github.com/lissy93/dashy/issues/2241) in [lissy93/dashy](https://github.com/lissy93/dashy)
+1. 🗣 Commented on [#5224](https://github.com/ublue-os/bazzite/issues/5224#issuecomment-5129271895) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+2. ℹ️ Labeled issue [#8374](https://github.com/hummingbot/hummingbot/issues/8374) in [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)
+3. ❗ Opened issue [#8374](https://github.com/hummingbot/hummingbot/issues/8374) in [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)
+4. ℹ️ Labeled issue [#2241](https://github.com/lissy93/dashy/issues/2241) in [lissy93/dashy](https://github.com/lissy93/dashy)
+5. ℹ️ Assigned issue [#2241](https://github.com/lissy93/dashy/issues/2241) in [lissy93/dashy](https://github.com/lissy93/dashy)
 <!--END_SECTION:activity-->
 
 ### Experience
