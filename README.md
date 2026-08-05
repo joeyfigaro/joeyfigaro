@@ -16,7 +16,9 @@
       </td>
       <td width="40%">
         <p align="center" style={{ paddingTop: 16 }}>
-<img src="https://github-profile-trophy.vercel.app/?username=joeyfigaro&no-frame=true&no-bg=false&column=3&margin-w=5&margin-h=5&theme=darkhub" />
+<img src="https://trophy.benkou.dev/?username=joeyfigaro&theme=dark&no-frame=true&theme=discord&column=3" />
+
+           
 </p>
       </td>
     </tr>
