@@ -9,8 +9,10 @@
         <div>
           <p>For the last 10 years, I've worked with diverse teams to solve problems for companies like <a   href="https://]https://www.ford.com">Ford</a>, <a href="https://www.tempurpedic.com">Tempur Pedic</a>, <a href="https://ihome.com">iHome</a>, <a href="https://alchemyrpg.com">Alchemy</a>, <a href="https://measure.com">Measure</a>, <a href="http://saunders.mobelux.com">Mobelux</a>, <a href="https://theinfatuation.com">The Infatuation</a>, <a href="https://www.seasonalroots.com">Seasonal Roots</a>, <a href="https://www.simplethread.com/">Simple Thread</a> and more.</p>
 
+          <p>I'm currently serving as the Director/Lead Product Engineer at <a href="https://the-rogue.agency?ref=github-profile">Rogue Agency.</a></p>
+
           
-<p>If you're interested in <a href="https://shovelandsandbox.dev" target="_blank">working together</a> or would like to <a href="https://joeyfigaro.com" target="_blank">learn more about me</a> or <a href="https://joeyfigaro.com/projects" target="_blank">what I'm working on</a>, feel free to reach out.</p>
+<p>If you're interested in <a href="https://shovelandsandbox.dev" target="_blank">working together</a> or would like to learn more about me or what I'm working on, feel free to reach out.</p>
         </div>
       </td>
       <td width="40%">
