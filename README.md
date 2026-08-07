@@ -38,6 +38,10 @@
 - [Dotfiles (soon)](#)
 
 ## 🧑🏻‍💻 Current Side Projects
+  - [Octohide](https://github.com/joeyfigaro/octohide-extension/tree/main) browser extension for hiding reusable workflows in GitHub repositories `COMPLETED`
+    - ✅ [TypeScript, WXT] boilerplate finalized
+    - ⭕️ [CI] automated tests and releases
+    - ⭕️ [CD] automated store deployment(s)
   - [Opensauce]() multi-platform feed for (F)OSS showcasing `IN-PROGRESS`
     - ✅ [Typescript, <a href="https://apify.com">Apify</a>] actors for finding content
     - ✅ [Express] REST API for responding to content discovery results
