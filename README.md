@@ -27,6 +27,7 @@
 
 ## Notable Projects & Contributions
 - [TSUP library template](https://github.com/joeyfigaro/tsup-lib-template) my reusable template for TS libraries
+- [Octohide](https://github.com/joeyfigaro/octohide-extension/tree/main) browser extension for hiding reusable workflows in GitHub repositories
 - [AlchemyRPG VTT](https://app.alchemyrpg.com) 
 - [Conflict-Finder Action](https://github.com/joeyfigaro/action-conflict-finder)
 - [useMutationRedirect](https://github.com/joeyfigaro/use-mutation-redirect) (a React hook for post-mutate navigation side-effects)
