@@ -28,7 +28,8 @@
 ## Notable Projects & Contributions
 - [TSUP library template](https://github.com/joeyfigaro/tsup-lib-template) my reusable template for TS libraries
 - [Octohide](https://github.com/joeyfigaro/octohide-extension/tree/main) browser extension for hiding reusable workflows in GitHub repositories
-- [AlchemyRPG VTT](https://app.alchemyrpg.com) 
+- [AlchemyRPG VTT](https://app.alchemyrpg.com)
+- [The Infatuation](theinfatuation.com) one of the first teams to build an embedded React application *within* a larger React/Django application
 - [Conflict-Scanner Action](https://github.com/joeyfigaro/action-conflict-scanner) supports configurable file patterns for scanning subsets of changed files for conflict markers
 - [useMutationRedirect](https://github.com/joeyfigaro/use-mutation-redirect) a React hook for post-mutate navigation side-effects
 - [Glacier (Theme)](https://packagecontrol.io/packages/Theme%20-%20Glacier) my first (flat) editor color scheme that used higher-saturation colors than other flat options at the time
@@ -77,14 +78,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### Notable Projects
-- [`use-mutation-redirect`](https://github.com/joeyfigaro/use-mutation-redirect)
-- [Alchemy](https://alchemyrpg.com)
-- [The Infatuation](theinfatuation.com)
-- [Measure](https://gc.measure.com/login)
-- [Glacier](https://packagecontrol.io/packages/Theme%20-%20Glacier)
-- [EasyRCA](https://easyrca.com)
 
 ### Recent Activity
 <!--START_SECTION:activity-->
