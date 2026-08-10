@@ -29,10 +29,10 @@
 - [TSUP library template](https://github.com/joeyfigaro/tsup-lib-template) my reusable template for TS libraries
 - [Octohide](https://github.com/joeyfigaro/octohide-extension/tree/main) browser extension for hiding reusable workflows in GitHub repositories
 - [AlchemyRPG VTT](https://app.alchemyrpg.com) 
-- [Conflict-Finder Action](https://github.com/joeyfigaro/action-conflict-finder)
-- [useMutationRedirect](https://github.com/joeyfigaro/use-mutation-redirect) (a React hook for post-mutate navigation side-effects)
-- [Glacier (Theme)](https://packagecontrol.io/packages/Theme%20-%20Glacier)
-- [Actix Examples](https://github.com/actix/examples/pull/629#event-9891729908)
+- [Conflict-Scanner Action](https://github.com/joeyfigaro/action-conflict-scanner) supports configurable file patterns for scanning subsets of changed files for conflict markers
+- [useMutationRedirect](https://github.com/joeyfigaro/use-mutation-redirect) a React hook for post-mutate navigation side-effects
+- [Glacier (Theme)](https://packagecontrol.io/packages/Theme%20-%20Glacier) my first (flat) editor color scheme that used higher-saturation colors than other flat options at the time
+- [Actix Examples](https://github.com/actix/examples/pull/629#event-9891729908) my first contribution to the Rust ecosystem
 
 ## My Setup
 - [Claude Skills](https://github.com/joeyfigaro/claude-skills)
