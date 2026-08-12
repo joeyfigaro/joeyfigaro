@@ -81,11 +81,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/moldable-ai/apps/issues/1) in [moldable-ai/apps](https://github.com/moldable-ai/apps)
-2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/joeyfigaro/action-conflict-scanner/releases/tag/v1.0.0) in [joeyfigaro/action-conflict-scanner](https://github.com/joeyfigaro/action-conflict-scanner)
-3. ❗ Opened issue [#4](https://github.com/anup-a/mesh-gradient.js/issues/4) in [anup-a/mesh-gradient.js](https://github.com/anup-a/mesh-gradient.js)
-4. 🗣 Commented on [#8](https://github.com/acamposuribe/p5.brush/issues/8#issuecomment-5130383957) in [acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush)
-5. 🗣 Commented on [#5224](https://github.com/ublue-os/bazzite/issues/5224#issuecomment-5129271895) in [ublue-os/bazzite](https://github.com/ublue-os/bazzite)
+1. ❗ Opened issue [#1](https://github.com/silas-zhen/monolithos-audio-brief/issues/1) in [silas-zhen/monolithos-audio-brief](https://github.com/silas-zhen/monolithos-audio-brief)
+2. ❗ Opened issue [#1](https://github.com/moldable-ai/apps/issues/1) in [moldable-ai/apps](https://github.com/moldable-ai/apps)
+3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/joeyfigaro/action-conflict-scanner/releases/tag/v1.0.0) in [joeyfigaro/action-conflict-scanner](https://github.com/joeyfigaro/action-conflict-scanner)
+4. ❗ Opened issue [#4](https://github.com/anup-a/mesh-gradient.js/issues/4) in [anup-a/mesh-gradient.js](https://github.com/anup-a/mesh-gradient.js)
+5. 🗣 Commented on [#8](https://github.com/acamposuribe/p5.brush/issues/8#issuecomment-5130383957) in [acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush)
 <!--END_SECTION:activity-->
 
 ### Experience
