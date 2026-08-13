@@ -42,14 +42,15 @@
 ## 🧑🏻‍💻 Current Side Projects
   - [Octohide](https://github.com/joeyfigaro/octohide-extension/tree/main) browser extension for hiding reusable workflows in GitHub repositories `COMPLETED`
     - ✅ [TypeScript, WXT] boilerplate finalized
-    - 💪🏻 [CI] automated tests and releases
+    - ✅ [CI] automated tests and releases
     - 💪🏻 [CD] automated store deployment(s)
   - [Opensauce]() multi-platform feed for (F)OSS showcasing `IN-PROGRESS`
     - ✅ [Typescript, <a href="https://apify.com">Apify</a>] actors for finding content
     - ✅ [Express] REST API for responding to content discovery results
     - ✅ [D1+R2/Queues] Cloudflare infrastructure for powering internal administration tooling and automated social posting
     - ✅ [Worker] History worker for scheduled ingestion draining and coordination
-    - ✅ [Worker] Instagram responder worker for watching published posts for keywords and sending DMs 
+    - ✅ [Worker] Instagram responder worker for watching published posts for keywords and sending DMs
+    - ✅ [Next.js, Cloudflare] Internal administration dashboard for generating slide images and editing content
   - [Gamelens](https://github.com/gamelens) (a native CV app for identifying games on your TV) `IN-PROGRESS`
     - ✅ [Typescript, <a href="https://apify.com">Apify</a>] scheduled actors run daily to find public cover art for video games
     - ✅ [<a href="https://apify.com">Apify</a>, <a href="https://developer.apple.com/machine-learning/create-ml/">Create ML</a>] results from actor runs are used to train a model (not automated yet)
