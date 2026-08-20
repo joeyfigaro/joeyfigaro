@@ -14,16 +14,14 @@
 <p>If you're interested in <a href="https://shovelandsandbox.dev" target="_blank">working together</a> or would like to learn more about me or what I'm working on, feel free to reach out.</p>
         </div>
       </td>
-      <td width="40%">
-        <p align="center" style={{ paddingTop: 16 }}>
-<img src="https://trophy.benkou.dev/?username=joeyfigaro&theme=dark&no-frame=true&theme=discord&column=3" />
-
-           
-</p>
+      <td align="center" width="40%">
+🥷🏻
       </td>
     </tr>
   </tbody>
 </table>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=joeyfigaro&rank_icon=percentile&hide_title=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=joeyfigaro&rank_icon=percentile&hide_title=true&theme=codeSTACKr)        
 
 ## Notable Projects & Contributions
 - [TSUP library template](https://github.com/joeyfigaro/tsup-lib-template) my reusable template for TS libraries
