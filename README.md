@@ -80,11 +80,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#194](https://github.com/koel/docker/issues/194#issuecomment-5590015033) in [koel/docker](https://github.com/koel/docker)
-2. ❗ Opened issue [#499](https://github.com/swingmx/swingmusic/issues/499) in [swingmx/swingmusic](https://github.com/swingmx/swingmusic)
-3. 🎉 Merged PR [#5](https://github.com/izmaelmag/awesome-emails/pull/5) in [izmaelmag/awesome-emails](https://github.com/izmaelmag/awesome-emails)
-4. 💪 Opened PR [#1](https://github.com/sidunrealde/ShaderConverter/pull/1) in [sidunrealde/ShaderConverter](https://github.com/sidunrealde/ShaderConverter)
-5. 🗣 Commented on [#261](https://github.com/cloudflare/chanfana/issues/261#issuecomment-5437767564) in [cloudflare/chanfana](https://github.com/cloudflare/chanfana)
+1. 🗣 Commented on [#1017](https://github.com/Doezer/Questarr/issues/1017#issuecomment-5617807990) in [Doezer/Questarr](https://github.com/Doezer/Questarr)
+2. 🔒 Closed issue [#1017](https://github.com/Doezer/Questarr/issues/1017) in [Doezer/Questarr](https://github.com/Doezer/Questarr)
+3. ℹ️ Labeled issue [#1017](https://github.com/Doezer/Questarr/issues/1017) in [Doezer/Questarr](https://github.com/Doezer/Questarr)
+4. ❗ Opened issue [#1017](https://github.com/Doezer/Questarr/issues/1017) in [Doezer/Questarr](https://github.com/Doezer/Questarr)
+5. 🗣 Commented on [#194](https://github.com/koel/docker/issues/194#issuecomment-5590015033) in [koel/docker](https://github.com/koel/docker)
 <!--END_SECTION:activity-->
 
 ### Experience
