@@ -80,11 +80,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1017](https://github.com/Doezer/Questarr/issues/1017#issuecomment-5617807990) in [Doezer/Questarr](https://github.com/Doezer/Questarr)
-2. 🔒 Closed issue [#1017](https://github.com/Doezer/Questarr/issues/1017) in [Doezer/Questarr](https://github.com/Doezer/Questarr)
-3. ℹ️ Labeled issue [#1017](https://github.com/Doezer/Questarr/issues/1017) in [Doezer/Questarr](https://github.com/Doezer/Questarr)
-4. ❗ Opened issue [#1017](https://github.com/Doezer/Questarr/issues/1017) in [Doezer/Questarr](https://github.com/Doezer/Questarr)
-5. 🗣 Commented on [#194](https://github.com/koel/docker/issues/194#issuecomment-5590015033) in [koel/docker](https://github.com/koel/docker)
+1. ❗ Opened issue [#57](https://github.com/cronitorio/cronitor-cli/issues/57) in [cronitorio/cronitor-cli](https://github.com/cronitorio/cronitor-cli)
+2. 🗣 Commented on [#1017](https://github.com/Doezer/Questarr/issues/1017#issuecomment-5617807990) in [Doezer/Questarr](https://github.com/Doezer/Questarr)
+3. 🔒 Closed issue [#1017](https://github.com/Doezer/Questarr/issues/1017) in [Doezer/Questarr](https://github.com/Doezer/Questarr)
+4. ℹ️ Labeled issue [#1017](https://github.com/Doezer/Questarr/issues/1017) in [Doezer/Questarr](https://github.com/Doezer/Questarr)
+5. ❗ Opened issue [#1017](https://github.com/Doezer/Questarr/issues/1017) in [Doezer/Questarr](https://github.com/Doezer/Questarr)
 <!--END_SECTION:activity-->
 
 ### Experience
