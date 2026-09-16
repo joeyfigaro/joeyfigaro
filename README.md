@@ -80,11 +80,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5115](https://github.com/OpenEmu/OpenEmu/issues/5115#issuecomment-5681800839) in [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu)
-2. 🗣 Commented on [#18](https://github.com/Jellyfin-PG/JellyFrame/issues/18#issuecomment-5662557734) in [Jellyfin-PG/JellyFrame](https://github.com/Jellyfin-PG/JellyFrame)
-3. 🔒 Closed issue [#18](https://github.com/Jellyfin-PG/JellyFrame/issues/18) in [Jellyfin-PG/JellyFrame](https://github.com/Jellyfin-PG/JellyFrame)
-4. ❗ Opened issue [#18](https://github.com/Jellyfin-PG/JellyFrame/issues/18) in [Jellyfin-PG/JellyFrame](https://github.com/Jellyfin-PG/JellyFrame)
-5. 🗣 Commented on [#17903](https://github.com/jellyfin/jellyfin/issues/17903#issuecomment-5662461014) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+1. ❗ Opened issue [#42](https://github.com/Ssenseii/harmoni/issues/42) in [Ssenseii/harmoni](https://github.com/Ssenseii/harmoni)
+2. ℹ️ Labeled issue [#77](https://github.com/gauthierpiarrette/highball-db/issues/77) in [gauthierpiarrette/highball-db](https://github.com/gauthierpiarrette/highball-db)
+3. ❗ Opened issue [#77](https://github.com/gauthierpiarrette/highball-db/issues/77) in [gauthierpiarrette/highball-db](https://github.com/gauthierpiarrette/highball-db)
+4. 🗣 Commented on [#5115](https://github.com/OpenEmu/OpenEmu/issues/5115#issuecomment-5681800839) in [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu)
+5. 🗣 Commented on [#18](https://github.com/Jellyfin-PG/JellyFrame/issues/18#issuecomment-5662557734) in [Jellyfin-PG/JellyFrame](https://github.com/Jellyfin-PG/JellyFrame)
 <!--END_SECTION:activity-->
 
 ### Experience
