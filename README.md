@@ -11,7 +11,7 @@
 
 <p>I'm currently serving as the Directing Product Engineer at <a href="https://the-rogue.agency?ref=github-profile">Rogue Agency</a> in the Netherlands.</p>
           
-<p>If you're interested in <a href="https://shovelandsandbox.dev" target="_blank">working together</a> or would like to learn more about me or what I'm working on, feel free to reach out.</p>
+<p>If you're interested in <a href="https://the-rogue.agency" target="_blank">working together</a> or would like to learn more about me or what I'm working on, feel free to reach out.</p>
         </div>
       </td>
       <td align="center" width="40%">
