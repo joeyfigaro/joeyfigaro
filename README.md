@@ -34,7 +34,7 @@
 - [Actix Examples](https://github.com/actix/examples/pull/629#event-9891729908) my first contribution to the Rust ecosystem
 
 ## My Setup
-- [Claude Skills](https://github.com/joeyfigaro/claude-skills)
+- [Agent Instructions](https://github.com/joeyfigaro/agent-instructions)
 - [Dotfiles (soon)](#)
 
 ## 🧑🏻‍💻 Current Side Projects
