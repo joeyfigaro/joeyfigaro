@@ -15,13 +15,11 @@
         </div>
       </td>
       <td align="center" width="40%">
-🥷🏻
+        <img src="https://github-stats-extended.vercel.app/api?username=joeyfigaro&rank_icon=percentile&hide_title=true&theme=codeSTACKr" />
       </td>
     </tr>
   </tbody>
 </table>
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=joeyfigaro&rank_icon=percentile&hide_title=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=joeyfigaro&rank_icon=percentile&hide_title=true&theme=codeSTACKr)        
 
 ## Notable Projects & Contributions
 - [TSUP library template](https://github.com/joeyfigaro/tsup-lib-template) my reusable template for TS libraries
