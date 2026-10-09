@@ -86,6 +86,8 @@
 <!--END_SECTION:activity-->
 
 ### Experience
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-0A1C67?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/websockets-8A2BE2?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
