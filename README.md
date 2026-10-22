@@ -78,9 +78,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#181](https://github.com/didriksg/Crisp/issues/181) in [didriksg/Crisp](https://github.com/didriksg/Crisp)
-2. ❗ Opened issue [#181](https://github.com/didriksg/Crisp/issues/181) in [didriksg/Crisp](https://github.com/didriksg/Crisp)
-3. ❗ Opened issue [#42](https://github.com/Ssenseii/harmoni/issues/42) in [Ssenseii/harmoni](https://github.com/Ssenseii/harmoni)
+1. ❗ Opened issue [#94](https://github.com/Vibra-Labs/Atrium/issues/94) in [Vibra-Labs/Atrium](https://github.com/Vibra-Labs/Atrium)
+2. ℹ️ Labeled issue [#181](https://github.com/didriksg/Crisp/issues/181) in [didriksg/Crisp](https://github.com/didriksg/Crisp)
+3. ❗ Opened issue [#181](https://github.com/didriksg/Crisp/issues/181) in [didriksg/Crisp](https://github.com/didriksg/Crisp)
 4. ℹ️ Labeled issue [#77](https://github.com/gauthierpiarrette/highball-db/issues/77) in [gauthierpiarrette/highball-db](https://github.com/gauthierpiarrette/highball-db)
 5. ❗ Opened issue [#77](https://github.com/gauthierpiarrette/highball-db/issues/77) in [gauthierpiarrette/highball-db](https://github.com/gauthierpiarrette/highball-db)
 <!--END_SECTION:activity-->
