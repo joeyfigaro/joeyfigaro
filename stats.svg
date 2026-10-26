@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Joey Figaro's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 23, Total Commits  : 1152, Total PRs: 117, Total Issues: 268, Contributed to (last year): 44</desc>
+        <desc id="descId">Total Stars Earned: 23, Total Commits  : 1152, Total PRs: 118, Total Issues: 268, Contributed to (last year): 45</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 91.33787590808872;
+        stroke-dashoffset: 91.16702459817063;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >117</text>
+      >118</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >44</text>
+      >45</text>
     </g>
   </g>
     </svg>
