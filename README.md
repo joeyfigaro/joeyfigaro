@@ -33,6 +33,7 @@
 
 ## My Setup
 - [Agent Instructions](https://github.com/joeyfigaro/agent-instructions)
+- [Skills](https://github.com/joeyfigaro/skills)
 - [Dotfiles (soon)](#)
 
 ## 🧑🏻‍💻 Current Side Projects
