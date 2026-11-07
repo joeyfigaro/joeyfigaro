@@ -79,11 +79,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#364](https://github.com/krillinai/OpenCreator/issues/364#issuecomment-6411184770) in [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
-2. 💪 Opened PR [#365](https://github.com/krillinai/OpenCreator/pull/365) in [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
-3. 🗣 Commented on [#364](https://github.com/krillinai/OpenCreator/issues/364#issuecomment-6402780763) in [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
-4. 🗣 Commented on [#94](https://github.com/Vibra-Labs/Atrium/issues/94#issuecomment-6368065475) in [Vibra-Labs/Atrium](https://github.com/Vibra-Labs/Atrium)
-5. ❗ Opened issue [#94](https://github.com/Vibra-Labs/Atrium/issues/94) in [Vibra-Labs/Atrium](https://github.com/Vibra-Labs/Atrium)
+1. ❗ Opened issue [#2](https://github.com/mubashardev/cf-studio/issues/2) in [mubashardev/cf-studio](https://github.com/mubashardev/cf-studio)
+2. 🗣 Commented on [#364](https://github.com/krillinai/OpenCreator/issues/364#issuecomment-6411184770) in [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
+3. 💪 Opened PR [#365](https://github.com/krillinai/OpenCreator/pull/365) in [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
+4. 🗣 Commented on [#364](https://github.com/krillinai/OpenCreator/issues/364#issuecomment-6402780763) in [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
+5. 🗣 Commented on [#94](https://github.com/Vibra-Labs/Atrium/issues/94#issuecomment-6368065475) in [Vibra-Labs/Atrium](https://github.com/Vibra-Labs/Atrium)
 <!--END_SECTION:activity-->
 
 ### Experience
