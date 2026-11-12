@@ -31,7 +31,7 @@
 #           git push
 name: Update README Badge
 permissions:
-  contents: read
+  contents: write
   pull-requests: read
   issues: read
 on:
