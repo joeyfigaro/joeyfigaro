@@ -37,6 +37,12 @@
 - [Skills](https://github.com/joeyfigaro/skills)
 - [Dotfiles (soon)](#)
 
+### AI Tooling
+- Claude/Codex
+- [Hermes](https://hermes-agent.nousresearch.com/) + [Nerve](https://hermeswatcher.com/plugins/nerve)
+- [Headroom](https://github.com/headroomlabs-ai/headroom) + [RTK](https://www.rtk-ai.app/)
+- [Ollama](https://ollama.com/) + [Hugging Face](https://huggingface.co)
+
 ## 🧑🏻‍💻 Current Side Projects
   - [Octohide](https://github.com/joeyfigaro/octohide-extension/tree/main) browser extension for hiding reusable workflows in GitHub repositories `COMPLETED`
     - ✅ [TypeScript, WXT] boilerplate finalized
