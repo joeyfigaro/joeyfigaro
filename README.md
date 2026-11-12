@@ -7,7 +7,7 @@
       <td align="left">
         <div>
         <div>
-          <p>For the last 12 years, I've worked with diverse teams to solve problems for companies like <a href="https://alchemyrpg.com">Alchemy RPG</a>, <a href="https://www.ford.com">Ford</a>, <a href="https://www.tempurpedic.com">Tempur Pedic</a>, <a href="https://ihome.com">iHome</a>, <a href="https://measure.com">Measure</a>, <a href="http://saunders.mobelux.com">Mobelux</a>, <a href="https://theinfatuation.com">The Infatuation</a>, <a href="https://www.seasonalroots.com">Seasonal Roots</a>, <a href="https://www.simplethread.com/">Simple Thread</a> and more.</p>
+          <p>For the last 12 years, I've worked with diverse teams to solve problems for companies like <a href="https://alchemyrpg.com">Alchemy RPG</a>, <a href="https://www.ford.com">Ford</a>, <a href="https://www.tempurpedic.com">Tempur Pedic</a>, <a href="https://ihome.com">iHome</a>, <a href="https://measure.com">Measure</a>, <a href="https://web.archive.org/web/20230618024853/https://mobelux.com/">Mobelux</a>, <a href="https://theinfatuation.com">The Infatuation</a>, <a href="https://www.seasonalroots.com">Seasonal Roots</a>, <a href="https://www.simplethread.com/">Simple Thread</a> and more.</p>
 
 <p>I'm currently serving as the Directing Product Engineer at <a href="https://the-rogue.agency?ref=github-profile">Rogue Agency</a> in the Netherlands, where I work to place some of the best design engineers into teams needing a little extra help without the hassle involved with full-time employees. When we aren't installing engineers, you can find us taking on one-off web, mobile, and software projects.</p>
           
@@ -93,11 +93,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18](https://github.com/ChrisRodStar/Mello-Tv/issues/18) in [ChrisRodStar/Mello-Tv](https://github.com/ChrisRodStar/Mello-Tv)
-2. ❗ Opened issue [#137](https://github.com/Vincentwei1021/video-shotcraft/issues/137) in [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
-3. ❗ Opened issue [#1](https://github.com/8rank/iKnow/issues/1) in [8rank/iKnow](https://github.com/8rank/iKnow)
-4. ❗ Opened issue [#2](https://github.com/mubashardev/cf-studio/issues/2) in [mubashardev/cf-studio](https://github.com/mubashardev/cf-studio)
-5. 🗣 Commented on [#364](https://github.com/krillinai/OpenCreator/issues/364#issuecomment-6411184770) in [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
+1. ❗ Opened issue [#137](https://github.com/Vincentwei1021/video-shotcraft/issues/137) in [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
+2. ❗ Opened issue [#1](https://github.com/8rank/iKnow/issues/1) in [8rank/iKnow](https://github.com/8rank/iKnow)
+3. ❗ Opened issue [#2](https://github.com/mubashardev/cf-studio/issues/2) in [mubashardev/cf-studio](https://github.com/mubashardev/cf-studio)
+4. 🗣 Commented on [#364](https://github.com/krillinai/OpenCreator/issues/364#issuecomment-6411184770) in [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
+5. 💪 Opened PR [#365](https://github.com/krillinai/OpenCreator/pull/365) in [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
 <!--END_SECTION:activity-->
 
 ### Experience
@@ -150,18 +150,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-
-<!--
-**joeyfigaro/joeyfigaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
