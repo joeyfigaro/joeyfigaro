@@ -7,7 +7,7 @@
       <td align="left">
         <div>
         <div>
-          <p>For the last 12 years, I've worked with diverse teams to solve problems for companies like <a href="https://alchemyrpg.com">Alchemy RPG</a>, <a href="https://www.ford.com">Ford</a>, <a href="https://www.tempurpedic.com">Tempur Pedic</a>, <a href="https://ihome.com">iHome</a>, <a href="https://alchemyrpg.com">Alchemy</a>, <a href="https://measure.com">Measure</a>, <a href="http://saunders.mobelux.com">Mobelux</a>, <a href="https://theinfatuation.com">The Infatuation</a>, <a href="https://www.seasonalroots.com">Seasonal Roots</a>, <a href="https://www.simplethread.com/">Simple Thread</a> and more.</p>
+          <p>For the last 12 years, I've worked with diverse teams to solve problems for companies like <a href="https://alchemyrpg.com">Alchemy RPG</a>, <a href="https://www.ford.com">Ford</a>, <a href="https://www.tempurpedic.com">Tempur Pedic</a>, <a href="https://ihome.com">iHome</a>, <a href="https://measure.com">Measure</a>, <a href="http://saunders.mobelux.com">Mobelux</a>, <a href="https://theinfatuation.com">The Infatuation</a>, <a href="https://www.seasonalroots.com">Seasonal Roots</a>, <a href="https://www.simplethread.com/">Simple Thread</a> and more.</p>
 
 <p>I'm currently serving as the Directing Product Engineer at <a href="https://the-rogue.agency?ref=github-profile">Rogue Agency</a> in the Netherlands.</p>
           
