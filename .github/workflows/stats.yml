@@ -29,7 +29,11 @@
 #           git add *.svg
 #           git commit -m "Update README cards" || exit 0
 #           git push
-name: generate badge
+name: Update README Badge
+permissions:
+  contents: read
+  pull-requests: read
+  issues: read
 on:
   workflow_dispatch:
   push:
