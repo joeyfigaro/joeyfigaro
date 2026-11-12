@@ -22,6 +22,7 @@
 </table>
 
 ## Notable Projects & Contributions
+- [Tourmaline](https://tourmaline.dev) generative artwork platform for content-creators and engineers
 - [TSUP library template](https://github.com/joeyfigaro/tsup-lib-template) my reusable template for TS libraries
 - [Octohide](https://github.com/joeyfigaro/octohide-extension/tree/main) browser extension for hiding reusable workflows in GitHub repositories
 - [AlchemyRPG VTT](https://app.alchemyrpg.com)
