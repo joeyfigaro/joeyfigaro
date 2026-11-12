@@ -25,7 +25,7 @@
 - [Tourmaline](https://tourmaline.dev) generative artwork platform for content-creators and engineers
 - [TSUP library template](https://github.com/joeyfigaro/tsup-lib-template) my reusable template for TS libraries
 - [Octohide](https://github.com/joeyfigaro/octohide-extension/tree/main) browser extension for hiding reusable workflows in GitHub repositories
-- [AlchemyRPG VTT](https://app.alchemyrpg.com)
+- [AlchemyRPG VTT](https://app.alchemyrpg.com) the best virtual tabletop for multiplayer storytelling
 - [The Infatuation](theinfatuation.com) one of the first teams to build an embedded React application *within* a larger React/Django application
 - [Conflict-Scanner Action](https://github.com/joeyfigaro/action-conflict-scanner) supports configurable file patterns for scanning subsets of changed files for conflict markers
 - [useMutationRedirect](https://github.com/joeyfigaro/use-mutation-redirect) a React hook for post-mutate navigation side-effects
