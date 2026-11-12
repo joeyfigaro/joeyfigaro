@@ -42,7 +42,7 @@
     - ✅ [TypeScript, WXT] boilerplate finalized
     - ✅ [CI] automated tests and releases
     - 💪🏻 [CD] automated store deployment(s)
-  - [Tourmaline](https://tourmaline.dev) editorial artwork platform that intentionally avoids generative AI
+  - [Tourmaline](https://tourmaline.dev) editorial artwork platform that intentionally avoids generative AI `IN-PROGRESS`
     - ✅ [D1] Primary application storage
     - ✅ [R2] Image storage and delivery
     - ✅ [Rust, WebAssembly] Seeded rendering engine shared between the browser and API for reproducible graphics
@@ -60,17 +60,17 @@
     - ✅ [Workers] History worker for scheduled ingestion draining and coordination
     - ✅ [Workers] Instagram responder worker for watching published posts for keywords and sending DMs
     - ✅ [Next.js] Internal administration dashboard for generating slide images and editing content
-  - [Gamelens](https://github.com/gamelens) (a native CV app for identifying games on your TV) `IN-PROGRESS`
+  - [Gamelens](https://github.com/gamelens) (a native CV app for identifying games on your TV) `PAUSED`
     - ✅ [Typescript, <a href="https://apify.com">Apify</a>] scheduled actors run daily to find public cover art for video games
     - ✅ [<a href="https://apify.com">Apify</a>, <a href="https://developer.apple.com/machine-learning/create-ml/">Create ML</a>] results from actor runs are used to train a model (not automated yet)
     - ✅ [<a href="https://www.rust-lang.org/learn">Rust</a>, <a href="https://actix.rs/">Actix</a>] platform API serves up JSON for discovered games
     - ⭕️ [Swift] iOS app
-  - [Blackhole.email](https://blackhole.email) (a tongue-in-cheek access gate for your inboxes) `IN-PROGRESS`
+  - [Blackhole.email](https://blackhole.email) (a tongue-in-cheek access gate for your inboxes) `PAUSED`
     - ✅ Architecture
     - 💪🏻 ZKP research
     - ⭕️ [Typescript, React] Browser extension/local client
     - ⭕️ [Typescript] Server
-  - [Dependafest](https://github.com/joeyfigaro/dependafest) (GH manifest scanning for improved packages UX) `IN-PROGRESS`
+  - [Dependafest](https://github.com/joeyfigaro/dependafest) (GH manifest scanning for improved packages UX) `PAUSED`
     - ✅ [React/Tailwind] chrome extension foundation
     - 💪🏻 [Typescript] sources
     - 💪🏻 [Regex] pattern repository for manifests and distros
