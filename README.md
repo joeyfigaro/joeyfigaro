@@ -93,11 +93,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#137](https://github.com/Vincentwei1021/video-shotcraft/issues/137) in [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
-2. ❗ Opened issue [#1](https://github.com/8rank/iKnow/issues/1) in [8rank/iKnow](https://github.com/8rank/iKnow)
-3. ❗ Opened issue [#2](https://github.com/mubashardev/cf-studio/issues/2) in [mubashardev/cf-studio](https://github.com/mubashardev/cf-studio)
-4. 🗣 Commented on [#364](https://github.com/krillinai/OpenCreator/issues/364#issuecomment-6411184770) in [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
-5. 💪 Opened PR [#365](https://github.com/krillinai/OpenCreator/pull/365) in [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
+1. ❗ Opened issue [#18](https://github.com/ChrisRodStar/Mello-Tv/issues/18) in [ChrisRodStar/Mello-Tv](https://github.com/ChrisRodStar/Mello-Tv)
+2. ❗ Opened issue [#137](https://github.com/Vincentwei1021/video-shotcraft/issues/137) in [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
+3. ❗ Opened issue [#1](https://github.com/8rank/iKnow/issues/1) in [8rank/iKnow](https://github.com/8rank/iKnow)
+4. ❗ Opened issue [#2](https://github.com/mubashardev/cf-studio/issues/2) in [mubashardev/cf-studio](https://github.com/mubashardev/cf-studio)
+5. 🗣 Commented on [#364](https://github.com/krillinai/OpenCreator/issues/364#issuecomment-6411184770) in [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
 <!--END_SECTION:activity-->
 
 ### Experience
