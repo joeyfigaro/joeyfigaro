@@ -30,7 +30,7 @@
 - [Conflict-Scanner Action](https://github.com/joeyfigaro/action-conflict-scanner) supports configurable file patterns for scanning subsets of changed files for conflict markers
 - [useMutationRedirect](https://github.com/joeyfigaro/use-mutation-redirect) a React hook for post-mutate navigation side-effects
 - [Glacier (Theme)](https://packagecontrol.io/packages/Theme%20-%20Glacier) my first (flat) editor color scheme that used higher-saturation colors than other flat options at the time
-- [Actix Examples](https://github.com/actix/examples/pull/629#event-9891729908) my first contribution to the Rust ecosystem
+- [Actix](https://github.com/actix) my preferred web framework for Rust projects–contributed [documentation updates for better onboarding](https://github.com/actix/examples/pull/629#event-9891729908)
 
 ## My Setup
 - [Agent Instructions](https://github.com/joeyfigaro/agent-instructions)
