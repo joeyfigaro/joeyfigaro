@@ -43,14 +43,14 @@
     - ✅ [CI] automated tests and releases
     - 💪🏻 [CD] automated store deployment(s)
   - [Tourmaline](https://tourmaline.dev) editorial artwork platform that intentionally avoids generative AI
-    - ✅ [D1/Queues] Job processing and primary application storage
+    - ✅ [D1] Primary application storage
     - ✅ [R2] Image storage and delivery
     - ✅ [Rust, WebAssembly] Seeded rendering engine shared between the browser and API for reproducible graphics
     - ✅ [TypeScript, Hono] REST APIs for image generation, account management, and published image endpoints
     - ✅ [React, Vinext] Dashboard application with live web-worker backed image previewing
     - ✅ [Flagship] Feature flag management and delivery for gradual rollouts
     - ✅ [Better Auth] OAuth provider for Google/GitHub account creation and login
-    - ✅ [Workflows] Scheduled processing for monthly rewards
+    - ✅ [Workflows] Idempotent processing for monthly rewards and image endpoint deployments
     - ✅ [Turnstile] Protection against bots for our waitlist
     - ✅ [Fumadocs, OpenAPI, Chanfana] automated API documentation generated from schema
   - [Opensauce]() multi-platform feed for (F)OSS showcasing `IN-PROGRESS`
