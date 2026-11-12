@@ -44,7 +44,7 @@ jobs:
       - uses: datarootsio/github-stats-card@v1
         with:
           username: joeyfigaro
-          gh_token_stats: ${{ secrets.README_STATS_PAT }}
+          gh_token_stats: ${{ secrets.STATS_CARD }}
           gh_token_commits: ${{ secrets.GITHUB_TOKEN }}
           badge_path: assets/badge.svg
           header: "👋 ahoy"
