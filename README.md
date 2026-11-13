@@ -41,7 +41,7 @@
 - Claude/Codex
 - [Hermes](https://hermes-agent.nousresearch.com/) + [Nerve](https://hermeswatcher.com/plugins/nerve) for harness and Jev/nervous system
 - [Headroom](https://github.com/headroomlabs-ai/headroom) + [RTK](https://www.rtk-ai.app/) for token reductions
-- [Ollama](https://ollama.com/) + [Hugging Face](https://huggingface.co) for managing and running local (often obliterated) models
+- [Ollama](https://ollama.com/) + [Hugging Face](https://huggingface.co) for managing and running local models
 
 ## 🧑🏻‍💻 Current Side Projects
   - [Octohide](https://github.com/joeyfigaro/octohide-extension/tree/main) browser extension for hiding reusable workflows in GitHub repositories `COMPLETED`
