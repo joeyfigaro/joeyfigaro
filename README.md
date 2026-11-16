@@ -44,7 +44,7 @@
 - [Ollama](https://ollama.com/) + [Hugging Face](https://huggingface.co) for managing and running local models
 
 ## 🧑🏻‍💻 Current Side Projects
-  - [Big Bambino](https://modrinth.com/mod/big-bambino) Kid-friendly baseball PvP mod for Minecraft 26.3
+  - [Big Bambino](https://modrinth.com/mod/big-bambino) Kid-friendly baseball PvP mod for Minecraft 26.3 `PLAYTESTING`
     - ✅ [Gradle/Jabba] Boilerplate finalized
     - ✅ [Java] Entity/Model definitions
     - ✅ [Pixen] Custom textures and assets
