@@ -46,7 +46,7 @@
 ## 🧑🏻‍💻 Current Side Projects
   - [Big Bambino](https://modrinth.com/mod/big-bambino) Kid-friendly baseball PvP mod for Minecraft 26.3 `PLAYTESTING`
     - ✅ [Gradle/Jabba] Boilerplate finalized
-    - ✅ [Java] Entity/Model definitions
+    - ✅ [Java, Fabric] Entity/Model definitions
     - ✅ [Pixen] Custom textures and assets
     - 💪🏻 [Modrinth] Player testing and feedback 
   - [Octohide](https://github.com/joeyfigaro/octohide-extension/tree/main) browser extension for hiding reusable workflows in GitHub repositories `COMPLETED`
