@@ -44,6 +44,11 @@
 - [Ollama](https://ollama.com/) + [Hugging Face](https://huggingface.co) for managing and running local models
 
 ## 🧑🏻‍💻 Current Side Projects
+  - [Big Bambino](https://modrinth.com/mod/big-bambino) Kid-friendly baseball PvP mod for Minecraft 26.3
+    - ✅ [Gradle/Jabba] Boilerplate finalized
+    - ✅ [Java] Entity/Model definitions
+    - ✅ [Pixen] Custom textures and assets
+    - 💪🏻 [Modrinth] Player testing and feedback 
   - [Octohide](https://github.com/joeyfigaro/octohide-extension/tree/main) browser extension for hiding reusable workflows in GitHub repositories `COMPLETED`
     - ✅ [TypeScript, WXT] boilerplate finalized
     - ✅ [CI] automated tests and releases
